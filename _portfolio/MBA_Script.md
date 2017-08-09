@@ -122,7 +122,7 @@ Items at least with 10% support.
 itemFrequencyPlot(groceries, support = 0.1)
 ```
 
-![](/unnamed-chunk-7-1.png)
+![](/MBA-unnamed-chunk-7-1.png)
 
 Frequency Plot for the top 20 items
 
@@ -130,7 +130,7 @@ Frequency Plot for the top 20 items
 itemFrequencyPlot(groceries, topN = 20)
 ```
 
-![](/unnamed-chunk-8-1.png)
+![](/MBA-unnamed-chunk-8-1.png)
 
 It is also possible to visualize the entire Sparse Matrix:
 
@@ -138,13 +138,13 @@ It is also possible to visualize the entire Sparse Matrix:
 image(groceries[1:5])
 ```
 
-![](/unnamed-chunk-9-1.png)
+![](/MBA-unnamed-chunk-9-1.png)
 
 ``` r
 image(sample(groceries, 100))
 ```
 
-![](/unnamed-chunk-9-2.png)
+![](/MBA-unnamed-chunk-9-2.png)
 
 Building the Model
 ==================
@@ -348,7 +348,7 @@ Visualization
 ``` r
 plot(rules,method="graph",interactive=TRUE,shading=NA)
 ```
-![](/unnamed-chunk-19-1.png)
+![](/MBA-unnamed-chunk-19-1.png)
 
 Save rules
 ==========

@@ -100,7 +100,7 @@ The first thing I like to know is if there are missing values in my dataset. I l
 missmap(data)
 ```
 
-![](/Missing%20V-1.png)
+![](/CF-Missing%20V-1.png)
 
 Class should be a factor, not a type number.
 
@@ -131,7 +131,7 @@ m <- cor(data[c("Time", "Amount")])
 corrplot(m, method = "square", type = "lower")
 ```
 
-![](/correlation-1.png) We can keep both variables if we need them.
+![](/CF-correlation-1.png) We can keep both variables if we need them.
 
 # Data visualization
 
@@ -178,7 +178,7 @@ for (i in seq_along(variables)) {
 ```
 All plots are saved in my working directory. But let's show one of them.
 
-![](\plot_V11.png)
+![](\CF-plot_V11.png)
 
 # Building the model
 

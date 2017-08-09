@@ -186,7 +186,7 @@ for (i in seq_along(variables)) {
 ```
 Histograms and density plots are, now, stored in the wd. I will load one here to show its shape.
 
-![](/plot_average_monthly_hours.png)
+![](/HR-plot_average_monthly_hours.png)
 
 ## Normalization
 
@@ -483,14 +483,14 @@ cluster$centers
 plotcluster(hr[,1:5], cluster$cluster)
 ```
 
-![](/unnamed-chunk-27-1.png)
+![](/HR-unnamed-chunk-27-1.png)
 
 ``` r
 clusplot(hr[,1:5], cluster$cluster, color=TRUE, shade=TRUE,
          labels=2, lines=0)
 ```
 
-![](/unnamed-chunk-28-1.png)
+![](/HR-unnamed-chunk-28-1.png)
 
 It seems there are not clear clusters in this data sets.
 
