@@ -1029,7 +1029,27 @@ cat("Summary",RF_FL_Summary,
 #
 RF_FL
 ```
-
+## 2.Floor - C50
+```{r, echo=TRUE, message=FALSE, warning=FALSE}
+library(C50)
+test <- as.data.frame(test)
+train <- as.data.frame(train)
+#train$FL <- as.factor(train$FL)
+set.seed(601)
+tc50_FL <- system.time(
+  c50_FL <- caret::train(FL~. ,
+                  data = train,
+                  method = "C5.0",
+                  trControl = c(ctrlk, noGlobalPruning = TRUE)
+  )
+)
+#@saving the model####
+save(c50_FL, file = "ModelFloorC50.rda")
+#prediction with the model####
+c50_FL_predic <- predict(c50_FL, FLTest, level = .95, type = "raw")
+#
+c50_FL
+```
     ## Random Forest
     ##
     ## 13958 samples
