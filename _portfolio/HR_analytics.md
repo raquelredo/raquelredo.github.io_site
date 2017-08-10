@@ -1,6 +1,6 @@
 ---
 title: "Human Resources Analytics"
-layout: archive
+layout: page
 excerpt:  "Why are our best and most experienced employees leaving prematurely?"
 tags: [R, kaggle, PCA, HR, logistic, tree, AUC]
 header:

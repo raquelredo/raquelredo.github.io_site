@@ -1,6 +1,6 @@
 ---
 title: "Lending Club"
-layout: archive
+layout: page
 excerpt:  "Credit Scoring project"
 tags: [python, scoring, pandas, numpy]
 header:
