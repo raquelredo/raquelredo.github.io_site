@@ -1,6 +1,6 @@
 ---
 title: "911 Data Exploration"
-layout: page
+layout: archive
 excerpt: "Using some Python data exploration libraries."
 tags: [python, seaborn, matplotlib, numpy, pandas]
 header:

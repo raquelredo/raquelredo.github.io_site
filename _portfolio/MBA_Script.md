@@ -1,6 +1,6 @@
 ---
 title: "Market Basket Analysis"
-layout: page
+layout: archive
 excerpt:  "Which products are more alike to be bought together?"
 header:
   teaser: market-basket-analysis.jpg

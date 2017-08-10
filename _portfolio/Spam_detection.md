@@ -1,6 +1,6 @@
 ---
 title: "Spam detection"
-layout: page
+layout: archive
 excerpt: "The identification of the text of spam messages in the claims is a very hard and time-consuming task. Can we build a model to detect when a message is ham or spam?"
 tags: [python, spam, corpus, text processing]
 header:
