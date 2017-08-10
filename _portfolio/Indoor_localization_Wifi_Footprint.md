@@ -1,6 +1,6 @@
 ---
 title: "Indoor localization through Wi fi footprint"
-layout: page
+layout: post
 excerpt:  "GPS are not working properly indoors. But, is it possible to locate a person according Wi fi footprint?"
 tags: [R, PCA, feature reduction, model evaluation, C50, adaboost, random forest, cross validation]
 header:
