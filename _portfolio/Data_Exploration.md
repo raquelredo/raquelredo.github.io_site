@@ -1,12 +1,13 @@
 ---
 title: "911 Data Exploration"
-layout: page
+layout: post
 excerpt: "Using some Python data exploration libraries."
 tags: [python, seaborn, matplotlib, numpy, pandas]
 header:
   teaser: call-center.png
 link:
 share: true
+comments: false
 ---
 
 This kernel is about some data exploration with plots on the Dataset 911 Emergency Calls. I  am using it to practice some Python visualization skills learned from Jose Portilla's Python course at [Udemy][9295e9ed], as well as a show window for newbies on Python. Let's start!

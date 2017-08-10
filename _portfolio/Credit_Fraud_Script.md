@@ -7,6 +7,7 @@ header:
   teaser: fraud_cc.png
 link:
 share: true
+comments: false
 ---
 ## Dataset
 Anonymized credit card transactions labelled as fraudulent or genuine.
