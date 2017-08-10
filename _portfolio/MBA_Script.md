@@ -113,8 +113,8 @@ In association analysis there are 3 main concepts to work with:
 2. **Confidence:** probability that a rule is correct for a new transaction with items on the left.
 3. **Lift:** The ratio by which by the confidence of a rule exceeds the expected confidence.
 
-Data visualization
-------------------
+## Data visualization
+
 
 Items at least with 10% support.
 
@@ -146,8 +146,8 @@ image(sample(groceries, 100))
 
 ![](/MBA-unnamed-chunk-9-2.png)
 
-Building the Model
-==================
+# Building the Model
+
 
 We are now ready to mine some rules! + We set the minimum support to 0.006. + We set the minimum confidence of 0.25. + We set the minimum to 2 items.
 
@@ -234,10 +234,9 @@ summary(rules)
     ##       data ntransactions support confidence
     ##  groceries          9835   0.006       0.25
 
-Evaluating model performance
-----------------------------
+## Evaluating model performance
 
-the size of the rule is calculated as the total of both Left-hand side (LHS) and right-hand side of the rule (RHS).
+The size of the rule is calculated as the total of both Left-hand side (LHS) and right-hand side of the rule (RHS).
 
 ``` r
 inspect(rules[1:5])
@@ -267,8 +266,7 @@ inspect(sort(rules, by ="lift")[1:5])
     ## [5] {other vegetables,
     ##      tropical fruit}   => {pip fruit}          0.009456024  0.2634561 3.482649
 
-Targeting Items
----------------
+## Targeting Items
 
 I am going to subset to see if a particular item is purchased along with others.
 
@@ -342,16 +340,15 @@ inspect(rules2[1:10])
 
 Except for the cat-food item, the other products seem to be purchased also for breakfast time.
 
-Visualization
-=============
+# Visualization
+
 
 ``` r
 plot(rules,method="graph",interactive=TRUE,shading=NA)
 ```
 ![](/MBA-unnamed-chunk-19-1.png)
 
-Save rules
-==========
+## Save rules
 
 I will, finally, convert the rules as data frame in order to view it in the R studio viewer and will save in a csv for extensive analysing purposes.
 
