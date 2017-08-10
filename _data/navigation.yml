@@ -7,7 +7,10 @@
   url: /articles/
 
 - title: Portfolio
-  url: /portfolio/
+    title: Machine Learning
+      url: /machine_learning/
+    title: Deep Learning
+      url: /deep_learning/
 
 - title: About
   url: /about/
