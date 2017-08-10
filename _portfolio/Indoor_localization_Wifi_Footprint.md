@@ -1034,7 +1034,7 @@ cat("Summary",RF_FL_Summary,
 RF_FL
 ```
 ## 2.Floor - C50
-```{r, echo=TRUE, message=FALSE, warning=FALSE}
+``` r
 library(C50)
 test <- as.data.frame(test)
 train <- as.data.frame(train)
