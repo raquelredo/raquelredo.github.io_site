@@ -220,8 +220,6 @@ sns.countplot( x= "Reason", data = df, palette = "viridis")
 ```
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x7f697f6d4080>
-
 
 
 
@@ -350,7 +348,7 @@ plt.title("Traffic")
 plt.tight_layout()
 ```
 
-![]/Data%20Exploration_36_0.png)
+![](/Data%20Exploration_36_0.png)
 
 
 ```python
