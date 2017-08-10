@@ -501,6 +501,8 @@ ggcorr(corr1, label = TRUE)
 
 ![](/Wf-Correlation%20Matrices-1.png)
 
+there are so many features that we are not able to see correlation between them.
+
 ``` r
 ggcorr(corr2, label = TRUE)
 ```
