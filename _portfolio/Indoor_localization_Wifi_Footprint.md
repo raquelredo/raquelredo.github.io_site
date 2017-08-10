@@ -426,7 +426,7 @@ I can see the shapes of the buldings. Also I can recognise when looking in Googl
 
 I have drawn its shape on the map.
 
-\[\]\[/gmap.png\]
+![](/Wf-gmap.png)
 
 ## Plot 2 - Relative Position
 
