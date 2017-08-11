@@ -8,9 +8,9 @@ author: rachel
 comments: true
 share: true
 image:
-  feature: modern-data-scientist.png
-  credit: http://marketingdistillery.com
-  creditlink: MarketingDistillery.com
+  feature:
+  credit: 
+  creditlink:
 date: "2017-3-19 17:00:29"
 modified: "2017-08-05 12:25"
 ---
@@ -22,6 +22,8 @@ Hiring decision makers for this position are often IT professionals, and therefo
 Data-driven companies have created a new challenge: Finding a leader who can use data to help drive business transformation. The natural path many companies are following is promoting managers with a skilled technical set as CDO. Other abilities like business acumen or leadership are not considered important. In my opinion, Big mistake!
 
 Anyone does want or is on the path to becoming a data scientist/analyst should know that the less important step in a data process is the code itself. The most important factor is being able to translate a business question in, first, a data project and finally, extract business conclusions about that project. The middle section, the code itself it is just something a very well on-site trained person can do it.
+
+![Modern Data Scientist](images/modern-data-scientist.png)
 
 Some of you, at this point, has raised the eyebrows and think I am nuts. Well, for being data scientist there is much more than programming itself.  The above post picture shows a cheat sheet of the skills needed. There is some math, statistics, curiosity, communication skills, and yes, also same knowledge about Hadoop and Language programming as R, Python or SQL... You might agree with me that learning a programming language is not a hard part of the computer science. Most of the well-experienced programmers have to learn the new languages most suitable for the data, also many Big Data concepts are as new to them as it was for me a few months ago.
 
