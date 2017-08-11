@@ -9,7 +9,7 @@ comments: true
 share: true
 image:
   feature:
-  credit: 
+  credit:
   creditlink:
 date: "2017-3-19 17:00:29"
 modified: "2017-08-05 12:25"
@@ -35,6 +35,6 @@ That is, because, as I advanced before:  Doing what it is needed to be done it 
 
 The following video contains the full presentation on How to Hire Great Data Scientists. I recommend watching it.
 
-[![DS](http://img.youtube.com/vi/D_sUwvHuweU/0.jpg)](http://www.youtube.com/watch?v=D_sUwvHuweU "Video Title")
+[![DS](http://img.youtube.com/vi/D_sUwvHuweU/0.jpg)](http://www.youtube.com/watch?v=D_sUwvHuweU "How to Hire a DS")
 
 You can comment!
