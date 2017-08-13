@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Portfolio
-excerpt: "Projects done on Data Science"
+author_profile: true
+comments: false
+excerpt: "Last logs about my changing career actions."
 search_omit: true
 ---
 The following projects have been done on my own or while doing some DS Courses. You can access each individual coding just by clicking any of tem.
