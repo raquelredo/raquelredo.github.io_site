@@ -1,14 +1,12 @@
 ---
 layout: page
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: true
-comments: false
+title: Blog
+excerpt: "Last logs about my changing career actions."
+search_omit: true
 ---
-The following projects have been done on my own or while doing some DS Courses. You can access each individual coding just by clicking any of tem.
 
-<div class="grid__wrapper">
-  {% for post in site.categories.portfolio %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
+<ul class="post-list">
+{% for post in site.categories.portfolio %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
