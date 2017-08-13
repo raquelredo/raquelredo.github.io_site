@@ -3,6 +3,7 @@ title: "911 Data Exploration"
 layout: post
 excerpt: "Using some Python data exploration libraries."
 tags: [python, seaborn, matplotlib, numpy, pandas]
+categories: portfolio
 header:
   teaser: call-center.png
 link:

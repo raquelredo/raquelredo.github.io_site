@@ -7,6 +7,7 @@ header:
   teaser: scoring.jpg
 link:
 share: true
+categories: portfolio
 ---
 
 For this project I will be exploring a public available data from [LendingClub.com](https://www.lendingclub.com/).

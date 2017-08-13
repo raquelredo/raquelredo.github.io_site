@@ -7,6 +7,7 @@ header:
   teaser: wifi.png
 link:
 share: true
+categories: portfolio
 ---
 # Data Set
 

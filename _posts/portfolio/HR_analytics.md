@@ -7,6 +7,7 @@ header:
   teaser: Work.png
 link:
 share: true
+categories: portfolio
 comments: false
 ---
 

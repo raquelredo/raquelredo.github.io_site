@@ -7,6 +7,7 @@ header:
 link:
 tags: [R, MBA, asociation rules, set, support, confidence, lift]
 share: true
+categories: portfolio
 ---
 
 ### Dataset

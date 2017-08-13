@@ -7,6 +7,7 @@ header:
   teaser: spam.jpg
 link:
 share: true
+categories: portfolio
 ---
 This dataset can be downloaded [here](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 

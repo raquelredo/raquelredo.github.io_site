@@ -12,6 +12,7 @@ Anonymized credit card transactions labeled as fraudulent or genuine. Anonymizat
 tags: [R, dplyr, ggplot2, unbalanced data, fraud, logistic, tree, AUC, kaggle]
 header:
   teaser: fraud_cc.png
+categories: portfolio
 link:
 share: true
 comments: false

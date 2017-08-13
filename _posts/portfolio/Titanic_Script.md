@@ -7,6 +7,7 @@ header:
 link:
 tags: [R, survival prediction, titanic, kaggle, tree, knn, c5.0, logistic regression, missing data, inference, feature engineering]
 share: true
+categories: portfolio
 ---
 
 
