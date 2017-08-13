@@ -1,7 +1,12 @@
 ---
 title: "Indoor localization through Wi fi footprint"
 layout: post
-excerpt:  "GPS are not working properly indoors. But, is it possible to locate a person according Wi fi footprint?"
+excerpt:  "GPS are not working properly indoors. But, is it possible to locate a person according Wi fi footprint?
+-   Features: 529
+-   Observations: 19,937
+-   Tuples: 10,546,673
+
+**Challenges:** Reduce data set for downloading time computation | Indoor localization"
 tags: [R, PCA, feature reduction, model evaluation, C50, adaboost, random forest, cross validation]
 header:
   teaser: wifi.png

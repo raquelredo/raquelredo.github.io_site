@@ -1,7 +1,13 @@
 ---
 title: "Market Basket Analysis"
 layout: post
-excerpt:  "Which products are more alike to be bought together?"
+excerpt:  "Which products are more alike to be bought together?
+The main purpose is to analyze the Basket composition from purchase tickets to study how consumers buy products together. This analysis might the foundation base for a cluster customer analysis or a product system recommendation.
+
+-   Type: list of lists
+-   Observations: 9835 ticket lists
+
+**Challenges:** Association Analysis per se"
 header:
   teaser: market-basket-analysis.jpg
 link:
