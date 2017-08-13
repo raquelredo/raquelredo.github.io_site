@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Blog
-excerpt: "Last logs about my changing career actions."
+title: Portfolio
+excerpt: "Projects done on Data Science"
 search_omit: true
 ---
+The following projects have been done on my own or while doing some DS Courses. You can access each individual coding just by clicking any of tem.
 
 <ul class="post-list">
 {% for post in site.categories.portfolio %}
