@@ -1,13 +1,7 @@
 ---
 title: "Lending Club"
 layout: post
-excerpt:  "Credit Scoring project.
-
--   Features: 18
--   Observations: 9,578
--   Tuples: 172,404
-
-**Challenges:** ML with Python"
+excerpt:  "Credit Scoring project."
 tags: [python, scoring, pandas, numpy]
 header:
   teaser: scoring.jpg

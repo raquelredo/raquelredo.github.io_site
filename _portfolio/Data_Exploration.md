@@ -1,14 +1,7 @@
 ---
 title: "911 Data Exploration"
 layout: post
-excerpt: "Using some Python data exploration libraries.
-The intention here is just Explore the Dataset. Put in action some Data visualization libraries and tools.
-
--   Features: 9
--   Observations: 205,580
--   Tuples: 1,850,220
-
-**Challenges:** Work with different visualization tools | work with Python"
+excerpt: "Using some Python data exploration libraries."
 tags: [python, seaborn, matplotlib, numpy, pandas]
 categories: portfolio
 header:

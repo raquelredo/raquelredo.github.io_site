@@ -1,14 +1,7 @@
 ---
 title: "Human Resources Analytics"
 layout: post
-excerpt:  "Why are our best and most experienced employees leaving prematurely?
-Why are our best and most experienced employees leaving prematurely?
-
--   Features: 9
--   Observations: 14,999
--   Tuples: 134,991
-
-**Challenges:** Detect outliers"
+excerpt:  "Why are our best and most experienced employees leaving prematurely?"
 tags: [R, kaggle, PCA, HR, logistic, tree, AUC]
 header:
   teaser: Work.png
