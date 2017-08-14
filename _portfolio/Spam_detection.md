@@ -1,6 +1,6 @@
 ---
 title: "Spam detection"
-layout: post
+layout: "post"
 excerpt: "The identification of the text of spam messages in the claims is a very hard and time-consuming task."
 tags: [python, spam, corpus, text processing]
 header:
