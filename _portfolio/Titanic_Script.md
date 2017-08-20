@@ -10,6 +10,15 @@ share: true
 categories: portfolio
 ---
 
+## Summary
+The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. Can we build a model to predict chances of survival?
+It is my job to predict if a passenger survived the sinking of the Titanic or not.
+
+-   Features: 11
+-   Observations: 891
+-   Tuples: 10,692
+
+**Challenges:** Missing values Treatment | Working with text
 
 ## Dataset
 

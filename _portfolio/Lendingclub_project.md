@@ -9,7 +9,15 @@ link:
 share: true
 categories: portfolio
 ---
+## Sumary
 
+-   Features: 18
+-   Observations: 9,578
+-   Tuples: 172,404
+
+**Challenges:** ML with Python
+
+## Data set
 For this project I will be exploring a public available data from [LendingClub.com](https://www.lendingclub.com/).
 LendingClub is a peer to peer lending platform connecting people who need money (the borrower) with people who have the money (investors). As an investor I would want to invest in people who showed a profile of having a high probability of paying me back. I am going to create a model that will help me to predict this.
 I am going to use data from 2007 to 2010 and be trying to classify and predict whether or not the borrower paid back their loan in full.

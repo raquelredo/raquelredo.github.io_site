@@ -9,8 +9,16 @@ tags: [R, MBA, asociation rules, set, support, confidence, lift]
 share: true
 categories: portfolio
 ---
+## Summary
+Which products are more alike to be bought together?
+The main purpose is to analyze the Basket composition from purchase tickets to study how consumers buy products together. This analysis might the foundation base for a cluster customer analysis or a product system recommendation.
 
-### Dataset
+-   Type: list of lists
+-   Observations: 9835 ticket lists
+
+**Challenges:** Association Analysis per se
+
+## Dataset
 
 The dataset is a list of a list. It contains 9,835 grocery purchased tickets. Each line on the file represents one ticket. Items are labelled and separated by a comma. Style is:
 

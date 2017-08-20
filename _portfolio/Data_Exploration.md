@@ -10,7 +10,17 @@ link:
 share: true
 comments: false
 ---
+## Summary
+Using some Python data exploration libraries.
+The intention here is just Explore the Dataset. Put in action some Data visualization libraries and tools.
 
+-   Features: 9
+-   Observations: 205,580
+-   Tuples: 1,850,220
+
+**Challenges:** Work with different visualization tools | work with Python
+
+# Exploration
 This kernel is about some data exploration with plots on the Dataset 911 Emergency Calls. I  am using it to practice some Python visualization skills learned from Jose Portilla's Python course at [Udemy][9295e9ed], as well as a show window for newbies on Python. Let's start!
 
   [9295e9ed]: https://www.udemy.com/courses/ "Udemy"

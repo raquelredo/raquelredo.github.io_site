@@ -1,14 +1,7 @@
 ---
 title: "Credit Card Fault detection"
 layout: post
-excerpt: "Are we able to predict credit card fraud in online transactions?
-Anonymized credit card transactions labeled as fraudulent or genuine. Anonymization has been achieved performing Principal Component Analysis. 492 frauds out of 284,807 transactions.
-
--   Features: 30
--   Observations: 284,807
--   Tuples: 8,544,210
-
-**Challenges:** Imbalanced data | Understanding PCA"
+excerpt: "Are we able to predict credit card fraud in online transactions?"
 tags: [R, dplyr, ggplot2, unbalanced data, fraud, logistic, tree, AUC, kaggle]
 header:
   teaser: fraud_cc.png
@@ -18,6 +11,16 @@ share: true
 comments: false
 date: 13-08-2017
 ---
+## Summary
+Are we able to predict credit card fraud in online transactions?
+Anonymized credit card transactions labeled as fraudulent or genuine. Anonymization has been achieved performing Principal Component Analysis. 492 frauds out of 284,807 transactions.
+
+-   Features: 30
+-   Observations: 284,807
+-   Tuples: 8,544,210
+
+**Challenges:** Imbalanced data | Understanding PCA
+
 ## Dataset
 Anonymized credit card transactions labelled as fraudulent or genuine.
 Dataset can be downloaded from Kaggle site in the following [link. ][4e2f2e50]

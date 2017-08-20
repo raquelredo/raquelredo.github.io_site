@@ -9,6 +9,14 @@ link:
 share: true
 categories: portfolio
 ---
+## Summary
+GPS are not working properly indoors. But, is it possible to locate a person according Wi fi footprint?
+-   Features: 529
+-   Observations: 19,937
+-   Tuples: 10,546,673
+
+**Challenges:** Reduce data set for downloading time computation | Indoor localization
+
 # Data Set
 
 The Dataset can be easily download from the UCI MAchine Learning Repository in here: <http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc>

@@ -10,6 +10,14 @@ share: true
 categories: portfolio
 comments: false
 ---
+## Summary
+Why are our best and most experienced employees leaving prematurely?
+
+-   Features: 9
+-   Observations: 14,999
+-   Tuples: 134,991
+
+**Challenges:** Detect outliers
 
 ### Dataset
 Dataset can be downloaded from Kaggle site [here](https://www.kaggle.com/ludobenistant/hr-analytics/downloads/HR_comma_sep.csv)

@@ -11,6 +11,15 @@ categories: portfolio
 ---
 This dataset can be downloaded [here](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
+## Summary
+The identification of the text of spam messages in the claims is a very hard and time-consuming task. Can we build a model to detect when a message is ham or spam?
+This data set is a compendium from different sources, of SMS classified as Spam /Ham. We will need to build a model that easily can detect when a SMS is relevant or not. Similarly to what, nowadays, spam filters do, NLP tools and techniques will help to do it.
+
+-   Observations: 5,574
+-   One label + one string as feature
+
+**Challenges:** Natural Language Processing with Python
+
 ## Data
 
 5,574 instances
