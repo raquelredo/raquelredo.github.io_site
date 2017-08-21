@@ -2,7 +2,7 @@
 title: "Credit Card Fault detection"
 layout: post
 excerpt: "Are we able to predict credit card fraud in online transactions?"
-tags: [R, dplyr, ggplot2, unbalanced data, fraud, logistic, tree, AUC, kaggle]
+tags: [R, dplyr, ggplot2, unbalanced data, fraud, logistic, tree, AUC, kaggle, PCA]
 header:
   teaser: fraud_cc.png
 categories: portfolio
@@ -19,7 +19,7 @@ Anonymized credit card transactions labeled as fraudulent or genuine. Anonymizat
 -   Observations: 284,807
 -   Tuples: 8,544,210
 
-**Challenges:** Imbalanced data | Understanding PCA
+**Challenges:** Imbalanced data, Understanding PCA
 
 ## Dataset
 Anonymized credit card transactions labelled as fraudulent or genuine.
