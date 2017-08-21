@@ -1,5 +1,5 @@
 ---
-title: "Lending Club"
+title: "(ML) Lending Club"
 layout: "post"
 excerpt:  "Credit Scoring project."
 tags: [python, scoring, pandas, numpy]

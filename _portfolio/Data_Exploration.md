@@ -1,8 +1,8 @@
 ---
-title: "911 Data Exploration"
+title: "(V) 911 Data Exploration"
 layout: "post"
 excerpt: "Using some Python data exploration libraries."
-tags: [python, seaborn, matplotlib, numpy, pandas]
+tags: [python, seaborn, matplotlib, numpy, pandas, data visualization]
 categories: portfolio
 header:
   teaser: call-center.png

@@ -1,5 +1,5 @@
 ---
-title: "Titanic: Machine Learning from Disaster"
+title: "(ML) Titanic: Machine Learning from Disaster"
 layout: "post"
 excerpt:  "The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. Can we build a model to predict chances of survival?"
 header:

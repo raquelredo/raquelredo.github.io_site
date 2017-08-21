@@ -1,8 +1,8 @@
 ---
-title: "Bike Sharing, demand prediction"
+title: "(DL) Bike Sharing, demand prediction"
 layout: post
 excerpt: "Are we able to predict credit card fraud in online transactions?"
-tags: [Python, Deep Learning, Udacity, UCI, backpropagation, activation function, artificial neural network, ANN]
+tags: [Python, Deep Learning, Udacity, UCI, backpropagation, activation function, artificial neural network, ANN, numpy]
 header:
   teaser: bike-sharing.jpg
 categories: portfolio

@@ -1,5 +1,5 @@
 ---
-title: "Market Basket Analysis"
+title: "(ML) Market Basket Analysis"
 layout: "post"
 excerpt:  "Which products are more alike to be bought together?"
 header:

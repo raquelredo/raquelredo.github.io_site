@@ -1,5 +1,5 @@
 ---
-title: "Credit Card Fault detection"
+title: "(ML) Credit Card Fault detection"
 layout: post
 excerpt: "Are we able to predict credit card fraud in online transactions?"
 tags: [R, dplyr, ggplot2, unbalanced data, fraud, logistic, tree, AUC, kaggle, PCA]
