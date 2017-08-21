@@ -254,7 +254,7 @@ Below is a plot showing the number of bike riders over the first 10 days or so i
 rides[:24*10].plot(x='dteday', y='cnt')
 ```
 
-![](https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/My_first_neural_network_6_1.png)
+![](https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/My_first_neural_network_6_1.png?raw=true)
 
 ## Dummy variables
 Here we have some categorical variables like `season`, `weather`, `month`. To include these in our model, we'll need to make binary dummy variables. This is simple to do with Pandas thanks to get_dummies().
@@ -462,7 +462,7 @@ val_features, val_targets = features[-60*24:], targets[-60*24:]
 ## Time to build the network
 Below you'll build your network. We've built out the structure and the backwards pass. You'll implement the forward pass through the network. You'll also set the hyperparameters: the learning rate, the number of hidden units, and the number of training passes.
 
-![](https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/neural_network.png)
+![](https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/neural_network.png?raw=true)
 
 The network has two layers, a hidden layer and an output layer. The hidden layer will use the **sigmoid function** for activations. The output layer has only one node and is used for the regression, the output of the node is the same as the input of the node. That is, the activation function is  f(x)=xf(x)=x
 
@@ -614,7 +614,7 @@ plt.plot(losses['validation'], label='Validation loss')
 plt.legend()
 _ = plt.ylim()
 ```
-![](https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/My_first_neural_network_22_0.png)
+![](https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/My_first_neural_network_22_0.png?raw=true)
 
 ## Checking out my predictions
 Let's plot real values vs prediction
@@ -635,4 +635,4 @@ ax.set_xticks(np.arange(len(dates))[12::24])
 _ = ax.set_xticklabels(dates[12::24], rotation=45)
 ```
 
-![](../_portfolio/DL-Bike-sharing/My_first_neural_network_24_1.png)
+![](https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/My_first_neural_network_24_1.png?raw=true)
