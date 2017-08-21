@@ -1,7 +1,7 @@
 ---
 title: "(DL) Bike Sharing, demand prediction"
 layout: post
-excerpt: "Are we able to predict credit card fraud in online transactions?"
+excerpt: "Using deep learning to predict bike sharing demand"
 tags: [Python, Deep Learning, Udacity, UCI, backpropagation, activation function, artificial neural network, ANN, numpy]
 header:
   teaser: bike-sharing.jpg
