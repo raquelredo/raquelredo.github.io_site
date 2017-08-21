@@ -1,8 +1,8 @@
 ---
-title: "(ML) Lending Club"
+title: "Lending Club"
 layout: "post"
 excerpt:  "Credit Scoring project."
-tags: [python, scoring, pandas, numpy]
+tags: [python, Machine learning, scoring, pandas, numpy, machine learning]
 header:
   teaser: scoring.jpg
 link:
