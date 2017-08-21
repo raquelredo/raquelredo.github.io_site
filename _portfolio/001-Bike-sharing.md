@@ -636,3 +636,5 @@ _ = ax.set_xticklabels(dates[12::24], rotation=45)
 ```
 
 ![](https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/My_first_neural_network_24_1.png?raw=true)
+
+Not too bad! the model has some unacuracy on predicting in Christmas time. That is probably due to the fact that we did not train the model with a representative sample of all the seasons, weather conditions, etc.
