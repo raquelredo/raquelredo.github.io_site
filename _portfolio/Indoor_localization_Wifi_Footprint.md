@@ -15,7 +15,7 @@ GPS are not working properly indoors. But, is it possible to locate a person acc
 -   Observations: 19,937
 -   Tuples: 10,546,673
 
-**Challenges:** Reduce data set for downloading time computation | Indoor localization
+**Challenges:** Reduce data set for downloading time computation, Indoor localization
 
 # Data Set
 
@@ -297,7 +297,7 @@ pmatrix2 <- as.data.frame(apply(new_validationData1,
                                 2, normalize))
 ```
 
-#Feature Reduction (with PCA)
+# Feature Reduction (with PCA)
 
 
 Considering the data frame has many features, I want to reduce the number of them. I also need to check the correlation between them in order to remove the columns that give the same information. The reason is that it will impact wrongly in our model. One way to do both things is applying the Principle component Analysis.

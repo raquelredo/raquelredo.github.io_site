@@ -18,7 +18,7 @@ It is my job to predict if a passenger survived the sinking of the Titanic or no
 -   Observations: 891
 -   Tuples: 10,692
 
-**Challenges:** Missing values Treatment | Working with text
+**Challenges:** Missing values Treatment, Working with strings
 
 ## Dataset
 
