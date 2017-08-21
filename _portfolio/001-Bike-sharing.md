@@ -22,7 +22,7 @@ The code has a section for testing the implementation. Although that has been al
 - hour.csv : bike sharing counts aggregated on hourly basis. Records: 17379 hours
 - day.csv - bike sharing counts aggregated on daily basis. Records: 731 days
 
-**Challenges**: ANN | backpropagation | tensors | calculus
+**Challenges**: ANN,  backpropagation, tensors, setting hyperparameters
 
 ## Data Set
 The data comes from the [UCI Machine Learning Database][d9b054b8].
@@ -72,7 +72,7 @@ Weather Information: http://www.freemeteo.com
 Holiday Schedule: http://dchr.dc.gov/page/holiday-schedule
 
 ### Requirements
-The list of the required packages is detailed in [this](\DL-Bike-sharing\requirements.txt) file.
+The list of the required packages is detailed in [this](https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/requirements.txt) file.
 
 
 ```python
@@ -254,7 +254,7 @@ Below is a plot showing the number of bike riders over the first 10 days or so i
 rides[:24*10].plot(x='dteday', y='cnt')
 ```
 
-![](../_portfolio/DL-Bike-sharing/My_first_neural_network_6_1.png)
+![]((https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/My_first_neural_network_6_1.png)
 
 ## Dummy variables
 Here we have some categorical variables like `season`, `weather`, `month`. To include these in our model, we'll need to make binary dummy variables. This is simple to do with Pandas thanks to get_dummies().
@@ -435,7 +435,7 @@ for each in quant_features:
     scaled_features[each] = [mean, std]
     data.loc[:, each] = (data[each] - mean)/std
 ```
-## Splitting the data into training, testing, and validation sets¶
+## Splitting the data into training, testing, and validation sets
 We'll save the data for the last approximately 21 days to use as a test set after we've trained the network. We'll use this set to make predictions and compare them with the actual number of riders.
 
 ```python
@@ -462,7 +462,7 @@ val_features, val_targets = features[-60*24:], targets[-60*24:]
 ## Time to build the network
 Below you'll build your network. We've built out the structure and the backwards pass. You'll implement the forward pass through the network. You'll also set the hyperparameters: the learning rate, the number of hidden units, and the number of training passes.
 
-![](../_portfolio/DL-Bike-sharing/neural_network.png)
+![]((https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/neural_network.png)
 
 The network has two layers, a hidden layer and an output layer. The hidden layer will use the **sigmoid function** for activations. The output layer has only one node and is used for the regression, the output of the node is the same as the input of the node. That is, the activation function is  f(x)=xf(x)=x
 
@@ -614,7 +614,7 @@ plt.plot(losses['validation'], label='Validation loss')
 plt.legend()
 _ = plt.ylim()
 ```
-![](../_portfolio/DL-Bike-sharing/My_first_neural_network_22_0.png)
+![]((https://github.com/raquelredo/raquelredo.github.io_old/blob/master/_portfolio/DL-Bike-sharing/My_first_neural_network_22_0.png)
 
 ## Checking out my predictions
 Let's plot real values vs prediction
