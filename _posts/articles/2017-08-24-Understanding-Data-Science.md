@@ -73,4 +73,4 @@ Giving insights and being able to transmit others it is an important part of the
 
 That means to understand your audience: are they visual? learn good data visualization, are they figures driven minds? learn how to present economic impacts to the audience. Storytelling is always a good way to articulate your speech. But we will talk about it later on...
 
-<sup>1</sup> *Bibliography:*  [go]("http://amzn.to/2xvl5HP")
+<sup>1</sup> *Bibliography:*  [go](http://amzn.to/2xvl5HP)
