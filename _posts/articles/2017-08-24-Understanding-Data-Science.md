@@ -61,7 +61,7 @@ These two tools are not the only ones. There are multiple commercial solutions t
 At the end, you must focus on building the analytical skill set. No matter what tool is used, what remains immutable is the ability to give insights and create knowledge from your findings.
 
 ### Giving insights
-The ultimate objective of being a DS is drawing conclusions.
+The ultimate objective of a DS is drawing conclusions.
 
 One of the best insights I got during my MBA was given to me in the very first week of the course. The professor explained to us how he had a business idea and he failed on convincing his other business partners that they should jump into it. With the time some other people did it and become very successful.
 
