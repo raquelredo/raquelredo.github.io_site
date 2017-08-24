@@ -12,7 +12,7 @@ image:
   credit: AnalyzingData
   creditlink:
 date: "2017-08-11 12:00"
-modified: "2017-08-05 17:49"
+modified: "2017-08-15 17:49"
 ---
 
 August is a vacation month for most countries in Europe. But for people, like me, with no job, I feel odd to be talking about holidays.
