@@ -15,7 +15,7 @@ date: "2017-8-24 16:03:29"
 modified: "2017-8-24 16:03:29"
 ---
 
-# Understanding Data Science[^Reference]
+# Understanding Data Science <sup>1</sup>
 Most of us are new to this field called Data Science In my way to becoming a Data Scientist, I became a little bit confused on the differences some terms had. I did not know how to define myself. Am I a Data Analyst? Am I a Data Scientist? Jobs descriptions did not help me to get out this confusion. The terms seemed to blend or merge with other like Data Architect, Full Stack developer, Web developer, organic Analyst, Business Analyst, Big Data Developer/analyst...and many others.
 
 If you are in a similar cross path as mine. Let me simplify things. A Data Scientist is someone who works with data in a scientific way. Nothing else to add.
@@ -72,4 +72,5 @@ But what he finally, learnt from this story is that it was him the biggest failu
 Giving insights and being able to transmit others it is an important part of the process and the job description of being a Data Scientist. Unfortunately, if a Data Scientist fails on that last step, time, money and who knows what else have been lost in the process. Do not underestimate this part and try to incorporate the skills you need to fulfil that.
 
 That means to understand your audience: are they visual? learn good data visualization, are they figures driven minds? learn how to present economic impacts to the audience. Storytelling is always a good way to articulate your speech. But we will talk about it later on...
-[^Reference]: *Bibliography:*  [go] ("http://amzn.to/2xvl5HP")
+
+<sup>1</sup> *Bibliography:*  [go]("http://amzn.to/2xvl5HP")
