@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Understanding Data Science"
-excerpt: "A brief summary on skills to have for a Data Scientist"
+excerpt: "Data Science definition. What is what"
 categories: articles
 tags: [Beginners,data science,Hadoop, Big Data, data scrub, Map reduce, spark]
 author: rachel
@@ -11,8 +11,8 @@ image:
   feature:
   credit:
   creditlink:
-date: "2017-3-19 17:00:29"
-modified: "2017-08-05 12:25"
+date: "2017-8-24 16:03:29"
+modified: "2017-8-24 16:03:29"
 ---
 
 # Understanding Data Science[^Reference]
