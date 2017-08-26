@@ -17,8 +17,7 @@ This project has been done in the context of [Udacity](https://www.udacity.com/)
 
 I have been given some of the code shown, but I did have to implement on my own most of the math programming that you will see: backpropagation, forward pass and activation function as an example.
 
-The code has a section for testing the implementation. Although that has been all set up by Udacity's mentors I decided not to remove for in the case someone cross by this notebook and can use the idea.
-
+The files that have provided are,
 - hour.csv : bike sharing counts aggregated on hourly basis. Records: 17379 hours
 - day.csv - bike sharing counts aggregated on daily basis. Records: 731 days
 
