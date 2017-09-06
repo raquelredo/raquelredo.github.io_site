@@ -27,6 +27,6 @@ I have to say that I am really enjoying that stage of my life. I know It has bee
 In parallel to learning Spark and `sparklyR`, I am taking some time to redo the contents on Deep Learning Nanodegree. I want to upload my portfolio with my deep learning projects, but I do want to tune a bit what I did in Udacity and be able to defend the projects as my own, and not something that I did filling the blanks.
 
 I also plan to upload some articles for starting with deep learning. It is not easy to find introduction articles for no-Phd people. Most of the articles come from Academia people and I think they lack on lowering down the concepts. So, I hope I can use my previous struggles on explaining those concepts.
-About deep learning and artificial intelligence, I also want as well to point out, that because most articles focus on the use of robotics, self-driving cars and other IoT, I have found, talking with other people who are starting on data science, that they understand it has no use in business. Nothing most far away from reality!
+About deep learning and artificial intelligence, I also want as well to point out, that because most articles focus on the use for robotics, self-driving cars and other IoT, many people understand deep learning has no other use in business. Nothing most far away from reality!
 
 I will keep on!
