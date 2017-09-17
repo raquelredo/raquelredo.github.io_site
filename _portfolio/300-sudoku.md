@@ -229,7 +229,7 @@ def solve(grid):
     values = search(values)
     return values
 ```
-Let'sa try it!
+Let's try it!
 ```python
 if __name__ == '__main__':
     diag_sudoku_grid = '2.............62....1....7...6..8...3...9...7...6..4...4....8....52.............3'
@@ -246,7 +246,7 @@ if __name__ == '__main__':
 ```
 and this is the resulting Sudoku: ![](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Sudoku/solution.JPG?raw=true)
 
-Hoorray!!!
+Hooray!
 
 # Conclusion
 One of the main challenges I had written this code besides the fact that I needed to learn some new concepts as well as upgrade my python skills, is the fact that I reached a solution in my coding but was soooo inefficient that my machine runs out of memory trying to solve the puzzle. So I needed to recode all several times.That makes me realise that in AI that is one of the main points to be successful.
