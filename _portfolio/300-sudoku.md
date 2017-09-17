@@ -249,4 +249,4 @@ and this is the resulting Sudoku: ![](https://github.com/raquelredo/raquelredo.g
 Hooray!
 
 # Conclusion
-One of the main challenges I had written this code besides the fact that I needed to learn some new concepts as well as upgrade my python skills, is the fact that I reached a solution in my coding but was soooo inefficient that my machine runs out of memory trying to solve the puzzle. So I needed to recode all several times.That makes me realise that in AI that is one of the main points to be successful.
+One of the main challenges for me, besides learning some new concepts as well as upgrading my python skills, is the fact that I reached a solution in my coding but was soooo inefficient that my machine run out of memory trying to solve the puzzle. In order to solve this, I needed to code and recode several times until I reached the solution keeping memory usage in order. I leart and almost-cry a lot in the way, but I did it!
