@@ -26,15 +26,14 @@ For this project specifically, we need to use as well a more advanced rule. Numb
 As for me, it was my father who showed how to fill a Sudoku game using a pen, algorithmic thinking as well as attention to detail. Now I have the chance to leave the pen behind, code the solving, deepen my Python coding skills as well as introducing myself much more into programmatic thinking.
 
 # Requirements
-The requirements for this project have been collected on the [requirements][be8bd9e5] file.
+The requirements for this project have been collected on the [requirements](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Sudoku/requirements.txt) file.
 
 # Naming Our Objects
 The first step is to set up the board game and define the objects we are going to need.
-  [be8bd9e5]: ../AI-Sudoku/requirements.txt "Requirements"
 
 That will be our board game:
 
-![]("../AI-Sudoku/sudoku-board-bare.jpg")
+![](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Sudoku/sudoku-board-bare.jpg?raw=true)
 
 ```python
 import itertools # for most efficient loops
@@ -79,7 +78,7 @@ peers = dict((s, set(sum(units[s],[]))-set([s])) for s in boxes)
 Each row, column, diagonal and a 3x3 square will be an `unit`.
 For each box there is a `peer` which is another box from the same unit.
 
-![]("../AI-Sudoku/diagonal-sudoku.png")
+![](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Sudoku/diagonal-sudoku.png?raw=true)
 
 ```python
 def assign_value(values, box, value):
