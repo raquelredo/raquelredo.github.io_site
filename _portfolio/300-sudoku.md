@@ -244,7 +244,7 @@ if __name__ == '__main__':
     except:
         print('We could not visualize your board due to a pygame issue. Not a problem! It is not a requirement.')
 ```
-and this is the resulting Sudoku: ![](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Sudoku/solution.jpg?raw=true)
+and this is the resulting Sudoku: ![](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Sudoku/solution.JPG?raw=true)
 
 Hoorray!!!
 
