@@ -2,7 +2,7 @@
 title: "Solving Sudokus"
 layout: "post"
 excerpt: "First project for the Artificial Intelligence Nanodegree. Coding how to Solve a Sudoku puzzle game."
-tags: [python,Artificial Intelligence, sudoku, naked twins, diagonal Sudoku]
+tags: [python, Artificial Intelligence, sudoku, naked twins, diagonal Sudoku, Udacity]
 header:
   teaser: sudoku_colox.jpg
 link:
