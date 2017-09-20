@@ -384,7 +384,7 @@ plt.tight_layout()
 
 ## Heat maps Time!
 
-I love Heat maps for analysing values along with time series. At the end our brain is used to wath time events in the form of a calendar week, month or year. Once the data is correctly displayed for us to interpret we can easily find unusual or explainable patterns.
+I love Heat maps for analysing values along with time series. At the end our brain is used to watch time events in the form of a calendar week, month or year. Once the data is correctly displayed for us to interpret we can easily find unusual or explainable patterns.
 For heat maps we need to reshape a bit the data frame. I need the columns to be hours and the `Index` to become the `Day of the Week`.
 
 
