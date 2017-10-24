@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Striking Back"
 modified:
 categories: blog
 excerpt:
