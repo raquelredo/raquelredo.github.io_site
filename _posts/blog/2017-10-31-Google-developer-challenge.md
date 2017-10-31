@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Striking Back"
+title: "I am a Google developer challenge Scholar"
 modified:
 categories: blog
 excerpt: "Google developer challenge scholar"
