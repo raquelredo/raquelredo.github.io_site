@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Striking Back"
+modified:
+categories: blog
+excerpt: "Google developer challenge scholar"
+tags: [Data Science, log, changing career, google, udacity, challenge, data visualization]
+image:
+  feature:  badge.png
+date: "2017-10-31 09:45"
+modified: "2017-10-31 09:45"
+---
+
+Yesterday I wrote an article reviewing the Udacity's AIND. You can read it [here](http://www.analyzingdata.org/articles/AI-Nanodegree-Review-first-term/). As you can read, I ended the article claiming for some rest. Well, it seems I will not!
+
+Only some hours later I wrote my whining, I got notified that I am a scholar on the Google developer challenge 2017-2018.
+
+![Google developer challenge badge](images/Google-Dev-EMEA-Badge.png)
+
+I am very happy about that! When I did the application for the scholarship there were many possibilities. I asked for the Front-end web development track. Data visualization has been one of my areas of interest, not only because I feel very important to be able to simplify for users the data exploration, but also because the creative me flourished at the clicking moment.
+
+In barely one week I will start another journey. I am not sure if the program will take six months or one full year, as I think the scholarship has two phases and not everyone goes ahead to the second one. About the scholarship, I am confident that I can follow this track with ease.Right now my thoughts are much more focused on not being able to finish the second term of the Artificial Intelligence Nanodegree in the short time.
+
+For sure, If I decide to take the second term I have to do some homework before enrolling and at least I have to advance the reading of the book suggested for the first term. Otherwise, it will be extremely difficult. Moreover, because I feel a job is about to come soon. I am in two processes that are quite advanced for a data scientist position.
+
+My spirit is quite high today.
