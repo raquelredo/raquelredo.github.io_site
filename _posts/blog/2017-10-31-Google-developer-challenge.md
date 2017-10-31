@@ -6,7 +6,7 @@ categories: blog
 excerpt: "Google developer challenge scholar"
 tags: [Data Science, log, changing career, google, udacity, challenge, data visualization]
 image:
-  feature:  badge.png
+  feature:  banner4.jpg
 date: "2017-10-31 09:45"
 modified: "2017-10-31 09:45"
 ---
