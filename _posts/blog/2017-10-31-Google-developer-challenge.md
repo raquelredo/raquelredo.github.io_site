@@ -21,6 +21,6 @@ I am very happy about that! When I did the application for the scholarship there
 
 In barely one week I will start another journey. I am not sure if the program will take six months or one full year, as I think the scholarship has two phases and not everyone goes ahead to the second one. About the scholarship, I am confident that I can follow this track with ease.Right now my thoughts are much more focused on not being able to finish the second term of the Artificial Intelligence Nanodegree in the short time.
 
-For sure, If I decide to take the second term I have to do some homework before enrolling and at least I have to advance the reading of the book suggested for the first term. Otherwise, it will be extremely difficult. Moreover, because I feel a job is about to come soon. I am in two processes that are quite advanced for a data scientist position.
+For sure, If I decide to take the second term I have to do some homework before enrolling and at least I have to advance the reading of the book suggested for the first term. Otherwise, it will be extremely difficult to me.
 
 My spirit is quite high today.
