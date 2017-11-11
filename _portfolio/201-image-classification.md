@@ -569,130 +569,255 @@ with tf.Session() as sess:
     save_path = saver.save(sess, save_model_path)
 ```
 Training...
+
 Epoch  1, CIFAR-10 Batch 1:  Loss:     2.1613 , Training Acc: 0.1830, Validation Acc: 0.1720
+
 Epoch  1, CIFAR-10 Batch 2:  Loss:     2.0472 , Training Acc: 0.2630, Validation Acc: 0.2592
+
 Epoch  1, CIFAR-10 Batch 3:  Loss:     1.9339 , Training Acc: 0.3070, Validation Acc: 0.3124
+
 Epoch  1, CIFAR-10 Batch 4:  Loss:     1.8589 , Training Acc: 0.3300, Validation Acc: 0.3248
+
 Epoch  1, CIFAR-10 Batch 5:  Loss:     1.7997 , Training Acc: 0.3520, Validation Acc: 0.3704
+
 Epoch  2, CIFAR-10 Batch 1:  Loss:     1.7476 , Training Acc: 0.3930, Validation Acc: 0.3954
+
 Epoch  2, CIFAR-10 Batch 2:  Loss:     1.6547 , Training Acc: 0.4250, Validation Acc: 0.4196
+
 Epoch  2, CIFAR-10 Batch 3:  Loss:     1.5970 , Training Acc: 0.4340, Validation Acc: 0.4328
+
 Epoch  2, CIFAR-10 Batch 4:  Loss:     1.5790 , Training Acc: 0.4410, Validation Acc: 0.4402
+
 Epoch  2, CIFAR-10 Batch 5:  Loss:     1.5562 , Training Acc: 0.4600, Validation Acc: 0.4644
+
 Epoch  3, CIFAR-10 Batch 1:  Loss:     1.5143 , Training Acc: 0.4760, Validation Acc: 0.4426
+
 Epoch  3, CIFAR-10 Batch 2:  Loss:     1.5532 , Training Acc: 0.4540, Validation Acc: 0.4520
+
 Epoch  3, CIFAR-10 Batch 3:  Loss:     1.4297 , Training Acc: 0.4970, Validation Acc: 0.4848
+
 Epoch  3, CIFAR-10 Batch 4:  Loss:     1.4657 , Training Acc: 0.4770, Validation Acc: 0.4744
+
 Epoch  3, CIFAR-10 Batch 5:  Loss:     1.4836 , Training Acc: 0.4820, Validation Acc: 0.4746
+
 Epoch  4, CIFAR-10 Batch 1:  Loss:     1.4235 , Training Acc: 0.5240, Validation Acc: 0.4758
+
 Epoch  4, CIFAR-10 Batch 2:  Loss:     1.4351 , Training Acc: 0.5180, Validation Acc: 0.4894
+
 Epoch  4, CIFAR-10 Batch 3:  Loss:     1.3425 , Training Acc: 0.5150, Validation Acc: 0.5044
+
 Epoch  4, CIFAR-10 Batch 4:  Loss:     1.3640 , Training Acc: 0.5400, Validation Acc: 0.5198
+
 Epoch  4, CIFAR-10 Batch 5:  Loss:     1.3760 , Training Acc: 0.5200, Validation Acc: 0.5048
+
 Epoch  5, CIFAR-10 Batch 1:  Loss:     1.3118 , Training Acc: 0.5500, Validation Acc: 0.5102
+
 Epoch  5, CIFAR-10 Batch 2:  Loss:     1.4052 , Training Acc: 0.5050, Validation Acc: 0.5008
+
 Epoch  5, CIFAR-10 Batch 3:  Loss:     1.2889 , Training Acc: 0.5280, Validation Acc: 0.5162
+
 Epoch  5, CIFAR-10 Batch 4:  Loss:     1.2964 , Training Acc: 0.5600, Validation Acc: 0.5176
+
 Epoch  5, CIFAR-10 Batch 5:  Loss:     1.2850 , Training Acc: 0.5740, Validation Acc: 0.5352
+
 Epoch  6, CIFAR-10 Batch 1:  Loss:     1.2713 , Training Acc: 0.5660, Validation Acc: 0.5230
+
 Epoch  6, CIFAR-10 Batch 2:  Loss:     1.2860 , Training Acc: 0.5530, Validation Acc: 0.5422
+
 Epoch  6, CIFAR-10 Batch 3:  Loss:     1.2101 , Training Acc: 0.5650, Validation Acc: 0.5540
+
 Epoch  6, CIFAR-10 Batch 4:  Loss:     1.2300 , Training Acc: 0.5840, Validation Acc: 0.5568
+
 Epoch  6, CIFAR-10 Batch 5:  Loss:     1.2172 , Training Acc: 0.5900, Validation Acc: 0.5588
+
 Epoch  7, CIFAR-10 Batch 1:  Loss:     1.1583 , Training Acc: 0.6070, Validation Acc: 0.5732
+
 Epoch  7, CIFAR-10 Batch 2:  Loss:     1.2025 , Training Acc: 0.5860, Validation Acc: 0.5678
+
 Epoch  7, CIFAR-10 Batch 3:  Loss:     1.1282 , Training Acc: 0.5950, Validation Acc: 0.5696
+
 Epoch  7, CIFAR-10 Batch 4:  Loss:     1.1515 , Training Acc: 0.6130, Validation Acc: 0.5854
+
 Epoch  7, CIFAR-10 Batch 5:  Loss:     1.1513 , Training Acc: 0.6120, Validation Acc: 0.5694
+
 Epoch  8, CIFAR-10 Batch 1:  Loss:     1.1141 , Training Acc: 0.6300, Validation Acc: 0.5872
+
 Epoch  8, CIFAR-10 Batch 2:  Loss:     1.1385 , Training Acc: 0.6080, Validation Acc: 0.5808
+
 Epoch  8, CIFAR-10 Batch 3:  Loss:     1.0713 , Training Acc: 0.6200, Validation Acc: 0.5948
+
 Epoch  8, CIFAR-10 Batch 4:  Loss:     1.1033 , Training Acc: 0.6200, Validation Acc: 0.6096
+
 Epoch  8, CIFAR-10 Batch 5:  Loss:     1.0830 , Training Acc: 0.6390, Validation Acc: 0.5930
+
 Epoch  9, CIFAR-10 Batch 1:  Loss:     1.0889 , Training Acc: 0.6340, Validation Acc: 0.5938
+
 Epoch  9, CIFAR-10 Batch 2:  Loss:     1.0564 , Training Acc: 0.6270, Validation Acc: 0.6034
+
 Epoch  9, CIFAR-10 Batch 3:  Loss:     1.0041 , Training Acc: 0.6440, Validation Acc: 0.6038
+
 Epoch  9, CIFAR-10 Batch 4:  Loss:     1.0425 , Training Acc: 0.6390, Validation Acc: 0.6122
+
 Epoch  9, CIFAR-10 Batch 5:  Loss:     1.0123 , Training Acc: 0.6740, Validation Acc: 0.6178
+
 Epoch 10, CIFAR-10 Batch 1:  Loss:     1.0151 , Training Acc: 0.6590, Validation Acc: 0.6126
+
 Epoch 10, CIFAR-10 Batch 2:  Loss:     0.9958 , Training Acc: 0.6550, Validation Acc: 0.6154
+
 Epoch 10, CIFAR-10 Batch 3:  Loss:     0.9515 , Training Acc: 0.6710, Validation Acc: 0.6204
+
 Epoch 10, CIFAR-10 Batch 4:  Loss:     1.0085 , Training Acc: 0.6480, Validation Acc: 0.6232
+
 Epoch 10, CIFAR-10 Batch 5:  Loss:     0.9862 , Training Acc: 0.6760, Validation Acc: 0.6238
+
 Epoch 11, CIFAR-10 Batch 1:  Loss:     0.9699 , Training Acc: 0.6670, Validation Acc: 0.6174
+
 Epoch 11, CIFAR-10 Batch 2:  Loss:     0.9954 , Training Acc: 0.6470, Validation Acc: 0.6090
+
 Epoch 11, CIFAR-10 Batch 3:  Loss:     0.9470 , Training Acc: 0.6790, Validation Acc: 0.6266
+
 Epoch 11, CIFAR-10 Batch 4:  Loss:     0.9780 , Training Acc: 0.6690, Validation Acc: 0.6306
+
 Epoch 11, CIFAR-10 Batch 5:  Loss:     0.9701 , Training Acc: 0.6930, Validation Acc: 0.6272
+
 Epoch 12, CIFAR-10 Batch 1:  Loss:     0.8908 , Training Acc: 0.7000, Validation Acc: 0.6450
+
 Epoch 12, CIFAR-10 Batch 2:  Loss:     0.8981 , Training Acc: 0.6940, Validation Acc: 0.6474
+
 Epoch 12, CIFAR-10 Batch 3:  Loss:     0.8604 , Training Acc: 0.7090, Validation Acc: 0.6564
+
 Epoch 12, CIFAR-10 Batch 4:  Loss:     0.9404 , Training Acc: 0.6820, Validation Acc: 0.6320
+
 Epoch 12, CIFAR-10 Batch 5:  Loss:     0.9584 , Training Acc: 0.6870, Validation Acc: 0.6190
+
 Epoch 13, CIFAR-10 Batch 1:  Loss:     0.8609 , Training Acc: 0.7150, Validation Acc: 0.6498
+
 Epoch 13, CIFAR-10 Batch 2:  Loss:     0.9064 , Training Acc: 0.6840, Validation Acc: 0.6450
+
 Epoch 13, CIFAR-10 Batch 3:  Loss:     0.8624 , Training Acc: 0.7010, Validation Acc: 0.6576
+
 Epoch 13, CIFAR-10 Batch 4:  Loss:     0.8858 , Training Acc: 0.6950, Validation Acc: 0.6482
+
 Epoch 13, CIFAR-10 Batch 5:  Loss:     0.8765 , Training Acc: 0.7190, Validation Acc: 0.6464
+
 Epoch 14, CIFAR-10 Batch 1:  Loss:     0.8255 , Training Acc: 0.7230, Validation Acc: 0.6552
+
 Epoch 14, CIFAR-10 Batch 2:  Loss:     0.8174 , Training Acc: 0.7190, Validation Acc: 0.6690
+
 Epoch 14, CIFAR-10 Batch 3:  Loss:     0.7931 , Training Acc: 0.7360, Validation Acc: 0.6724
+
 Epoch 14, CIFAR-10 Batch 4:  Loss:     0.8097 , Training Acc: 0.7360, Validation Acc: 0.6666
+
 Epoch 14, CIFAR-10 Batch 5:  Loss:     0.8281 , Training Acc: 0.7330, Validation Acc: 0.6496
+
 Epoch 15, CIFAR-10 Batch 1:  Loss:     0.7788 , Training Acc: 0.7380, Validation Acc: 0.6592
+
 Epoch 15, CIFAR-10 Batch 2:  Loss:     0.8098 , Training Acc: 0.7190, Validation Acc: 0.6666
+
 Epoch 15, CIFAR-10 Batch 3:  Loss:     0.7741 , Training Acc: 0.7480, Validation Acc: 0.6634
+
 Epoch 15, CIFAR-10 Batch 4:  Loss:     0.7806 , Training Acc: 0.7390, Validation Acc: 0.6686
+
 Epoch 15, CIFAR-10 Batch 5:  Loss:     0.7589 , Training Acc: 0.7660, Validation Acc: 0.6724
+
 Epoch 16, CIFAR-10 Batch 1:  Loss:     0.7288 , Training Acc: 0.7540, Validation Acc: 0.6728
+
 Epoch 16, CIFAR-10 Batch 2:  Loss:     0.7584 , Training Acc: 0.7340, Validation Acc: 0.6750
+
 Epoch 16, CIFAR-10 Batch 3:  Loss:     0.7098 , Training Acc: 0.7630, Validation Acc: 0.6770
+
 Epoch 16, CIFAR-10 Batch 4:  Loss:     0.7426 , Training Acc: 0.7540, Validation Acc: 0.6746
+
 Epoch 16, CIFAR-10 Batch 5:  Loss:     0.7299 , Training Acc: 0.7600, Validation Acc: 0.6748
+
 Epoch 17, CIFAR-10 Batch 1:  Loss:     0.6846 , Training Acc: 0.7780, Validation Acc: 0.6770
+
 Epoch 17, CIFAR-10 Batch 2:  Loss:     0.7288 , Training Acc: 0.7600, Validation Acc: 0.6840
+
 Epoch 17, CIFAR-10 Batch 3:  Loss:     0.6836 , Training Acc: 0.7790, Validation Acc: 0.6712
+
 Epoch 17, CIFAR-10 Batch 4:  Loss:     0.7124 , Training Acc: 0.7370, Validation Acc: 0.6716
+
 Epoch 17, CIFAR-10 Batch 5:  Loss:     0.7087 , Training Acc: 0.7650, Validation Acc: 0.6750
+
 Epoch 18, CIFAR-10 Batch 1:  Loss:     0.6779 , Training Acc: 0.7750, Validation Acc: 0.6764
+
 Epoch 18, CIFAR-10 Batch 2:  Loss:     0.7126 , Training Acc: 0.7680, Validation Acc: 0.6776
+
 Epoch 18, CIFAR-10 Batch 3:  Loss:     0.6848 , Training Acc: 0.7550, Validation Acc: 0.6606
+
 Epoch 18, CIFAR-10 Batch 4:  Loss:     0.6878 , Training Acc: 0.7640, Validation Acc: 0.6768
+
 Epoch 18, CIFAR-10 Batch 5:  Loss:     0.6341 , Training Acc: 0.8030, Validation Acc: 0.6914
+
 Epoch 19, CIFAR-10 Batch 1:  Loss:     0.6539 , Training Acc: 0.7840, Validation Acc: 0.6752
+
 Epoch 19, CIFAR-10 Batch 2:  Loss:     0.6902 , Training Acc: 0.7860, Validation Acc: 0.6704
+
 Epoch 19, CIFAR-10 Batch 3:  Loss:     0.6293 , Training Acc: 0.7690, Validation Acc: 0.6836
+
 Epoch 19, CIFAR-10 Batch 4:  Loss:     0.6399 , Training Acc: 0.7770, Validation Acc: 0.6828
+
 Epoch 19, CIFAR-10 Batch 5:  Loss:     0.6364 , Training Acc: 0.8080, Validation Acc: 0.6812
+
 Epoch 20, CIFAR-10 Batch 1:  Loss:     0.5851 , Training Acc: 0.7980, Validation Acc: 0.6786
+
 Epoch 20, CIFAR-10 Batch 2:  Loss:     0.6570 , Training Acc: 0.7790, Validation Acc: 0.6722
+
 Epoch 20, CIFAR-10 Batch 3:  Loss:     0.6035 , Training Acc: 0.7960, Validation Acc: 0.6766
+
 Epoch 20, CIFAR-10 Batch 4:  Loss:     0.6086 , Training Acc: 0.8100, Validation Acc: 0.6762
+
 Epoch 20, CIFAR-10 Batch 5:  Loss:     0.6333 , Training Acc: 0.8070, Validation Acc: 0.6766
+
 Epoch 21, CIFAR-10 Batch 1:  Loss:     0.5789 , Training Acc: 0.8080, Validation Acc: 0.6932
+
 Epoch 21, CIFAR-10 Batch 2:  Loss:     0.6093 , Training Acc: 0.8140, Validation Acc: 0.6828
+
 Epoch 21, CIFAR-10 Batch 3:  Loss:     0.5716 , Training Acc: 0.8020, Validation Acc: 0.6738
+
 Epoch 21, CIFAR-10 Batch 4:  Loss:     0.5462 , Training Acc: 0.8110, Validation Acc: 0.6886
+
 Epoch 21, CIFAR-10 Batch 5:  Loss:     0.5733 , Training Acc: 0.8190, Validation Acc: 0.6844
+
 Epoch 22, CIFAR-10 Batch 1:  Loss:     0.5393 , Training Acc: 0.8200, Validation Acc: 0.6956
+
 Epoch 22, CIFAR-10 Batch 2:  Loss:     0.6131 , Training Acc: 0.8020, Validation Acc: 0.6752
+
 Epoch 22, CIFAR-10 Batch 3:  Loss:     0.5595 , Training Acc: 0.8060, Validation Acc: 0.6754
+
 Epoch 22, CIFAR-10 Batch 4:  Loss:     0.5474 , Training Acc: 0.8130, Validation Acc: 0.6708
+
 Epoch 22, CIFAR-10 Batch 5:  Loss:     0.5470 , Training Acc: 0.8320, Validation Acc: 0.6886
+
 Epoch 23, CIFAR-10 Batch 1:  Loss:     0.5020 , Training Acc: 0.8410, Validation Acc: 0.6988
+
 Epoch 23, CIFAR-10 Batch 2:  Loss:     0.5946 , Training Acc: 0.8170, Validation Acc: 0.6660
+
 Epoch 23, CIFAR-10 Batch 3:  Loss:     0.6193 , Training Acc: 0.7850, Validation Acc: 0.6492
+
 Epoch 23, CIFAR-10 Batch 4:  Loss:     0.5592 , Training Acc: 0.8200, Validation Acc: 0.6730
+
 Epoch 23, CIFAR-10 Batch 5:  Loss:     0.5190 , Training Acc: 0.8450, Validation Acc: 0.6874
+
 Epoch 24, CIFAR-10 Batch 1:  Loss:     0.4753 , Training Acc: 0.8300, Validation Acc: 0.7012
+
 Epoch 24, CIFAR-10 Batch 2:  Loss:     0.5532 , Training Acc: 0.8190, Validation Acc: 0.6828
+
 Epoch 24, CIFAR-10 Batch 3:  Loss:     0.5394 , Training Acc: 0.8040, Validation Acc: 0.6668
+
 Epoch 24, CIFAR-10 Batch 4:  Loss:     0.5323 , Training Acc: 0.8230, Validation Acc: 0.6810
+
 Epoch 24, CIFAR-10 Batch 5:  Loss:     0.4787 , Training Acc: 0.8420, Validation Acc: 0.6898
+
 Epoch 25, CIFAR-10 Batch 1:  Loss:     0.4927 , Training Acc: 0.8370, Validation Acc: 0.6922
+
 Epoch 25, CIFAR-10 Batch 2:  Loss:     0.5253 , Training Acc: 0.8270, Validation Acc: 0.6950
+
 Epoch 25, CIFAR-10 Batch 3:  Loss:     0.4446 , Training Acc: 0.8430, Validation Acc: 0.6866
+
 Epoch 25, CIFAR-10 Batch 4:  Loss:     0.4802 , Training Acc: 0.8450, Validation Acc: 0.6836
+
 Epoch 25, CIFAR-10 Batch 5:  Loss:     0.4633 , Training Acc: 0.8480, Validation Acc: 0.6868
 
 
