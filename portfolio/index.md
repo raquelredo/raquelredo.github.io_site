@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: portfolio
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
@@ -13,4 +13,3 @@ The following projects have been done on my own or while doing some DS Courses. 
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
-
