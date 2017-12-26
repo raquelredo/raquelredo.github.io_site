@@ -169,12 +169,12 @@ The neural network needs to read the image data, one-hot encoded labels, and dro
 
 + Implement `neural_net_label_input`
   + Return a [TF Placeholder][f7eb9246]
-  + Set the shape using n_classes with batch size set to None.
+  + Set the shape using `n_classes` with batch size set to None.
   + Name the TensorFlow placeholder "y" using the TensorFlow name parameter in the [TF Placeholder][f7eb9246].
 
 + Implement neural_net_keep_prob_input
   + Return a [TF Placeholder][f7eb9246] for dropout keep probability.
-  + Name the TensorFlow placeholder "keep_prob" using the TensorFlow name parameter in the [TF Placeholder][f7eb9246].
+  + Name the TensorFlow placeholder `keep_prob` using the TensorFlow name parameter in the [TF Placeholder][f7eb9246].
 
 ```python
 import tensorflow as tf
