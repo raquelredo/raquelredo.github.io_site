@@ -61,7 +61,7 @@ I learned Python mostly through Jose Portilla's courses at Udemy and thousands o
 
 Don't be so surprised on seeing <span style="color:red">project management </span>listed in 5th position. Each Data Science position consists of a bunch of projects to be done within a company. Time management, leadership, proper documentation techniques, managing expectations across stakeholders, Agile methodology, sprints, and many other subskills must be familiar to you if you want to be successful in this field. Being diligent and fulfilling the main objectives of your science with data is a key point in bringing projects to a good end...and keep your job!
 
-![Skills for being a Data scientist]({{site.url}}/images/Graphs/10-skills.JPG){: .pull-right}
+![Skills for being a Data scientist]({{site.url}}/images/graphs/10-skills.JPG){: .pull-right}
 
 ## 4 .- Microsoft Excel
 
