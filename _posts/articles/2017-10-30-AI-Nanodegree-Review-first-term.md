@@ -15,7 +15,7 @@ date: "2017-10-30 13:21:29"
 modified: "2017-10-30 13:21:29"
 ---
 
-It has been only one day and a half that I completed the first term of the [Artificial Intelligence Nanodegree]("https://www.udacity.com/ai") from Udacity, and I feel in heaven. I did learn a lot; But also, I know, now, that I don't know anything. It has been a tough, strenuous, arduous and very hard path.
+It has been only one day and a half that I completed the first term of the [Artificial Intelligence Nanodegree](https://www.udacity.com/ai) from Udacity, and I feel in heaven. I did learn a lot; But also, I know, now, that I don't know anything. It has been a tough, strenuous, arduous and very hard path.
 
 If you are already familiar with Nanodegree, you already know the structure they have. And if you don't, let me tell you that learning is based on doing different projects.
 Projects for the first term are 4. At today's they are:
