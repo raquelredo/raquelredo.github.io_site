@@ -16,9 +16,10 @@ modified: "2017-08-05 13:04"
 ---
 
 > Machine Learning with R.
-> Second Edition
-> Brett Lantz
+> Second Edition.
+> by Brett Lantz.
 > Published by Packt
+ ![Machine Learning with R- 2nd Edition]({{site.url}}/images/books/m_l_with_r.jpg){: .pull-right}
 
 This book is perfect for newbies. I really enjoyed reading it. It covers all the basic Algorithms. None of them in real depth, but it provides an easy-reading map of the several points in the machine learning world.
 In its guts, we can find the following chapters,
