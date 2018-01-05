@@ -36,15 +36,19 @@ Let's break it into the chapters:
 - Chapter 8: Generative deep learning
 - Chapter 9: Conclusions
 
-The structure of the book is perfect for newbies in the deep learning field. It goes from simpler or most known algorithms and methodologies to the most recent and high-level ones.
+The structure of the book is perfect for newbies in the deep learning field. It goes from more straightforward or most known algorithms and methodologies to the most recent and high-level ones.
 
-This book has both, an R and a Python version. I bought the R version as I was quite curious about doing a DL project with R (which is not the most common language for it). Actually, I found this little jewel while I was trying to code an LSTM for deep writing on Cervante's style. I actually did it as I could reuse a Python script from the deep learning nanodegree at Udacity's, but I did want to go forward and replicate the script from scratch in R. I am a R lady and I was hoping I could make an introduction on deep learning with R some day.
+This book has both, an R and a Python version. I bought the R version as I was quite curious about doing a DL project with R (which is not the most common language for it). I found this little jewel while I was trying to code an LSTM for deep writing on Cervante's style. I did it as I could reuse a Python script from the deep learning nano degree at [Udacity][1a539d8c], but I did want to go forward and replicate the script from scratch in R. I am an [R lady ][406cc670], and I was hoping I could make an introduction to deep learning with R someday.
 
-The book contains a clean, step-by-step coded examples that are avalaible in a Github repository; the reason why I think this is pure gold, is the theory that goes along the examples. I was not new at all in the field of deep learning and I also learned something in this reading.
+[406cc670]: https://rladies.org/ "R ladies"
+  [1a539d8c]: www.Udacity.com "Udacity"
+
+The book contains a clean, step-by-step coded examples that are available in a Github repository; the reason why I think this is pure gold is the theory that goes along the cases. I was not new at all in the field of deep learning, and I also learned something in this reading.
 
 LSTM models, recurrent networks, GANs, transfer learning and how to tune the parameters and hyperparameters were concepts that I heard about before. But the first time I learned about bidirectional sequence models was in this book.
 
-Wanna buy it? [Here ][e3ee4bfe]you can buy the Python version and [here][1b7c17e6] the R version (these are not affiliate marketing links)
+Do you want to buy it? [Here][e3ee4bfe] you can buy the Python version and [here][1b7c17e6] the R version (these are not affiliate marketing links):
+
   [e3ee4bfe]: https://livebook.manning.com/#!/book/deep-learning-with-python "Deep Learning with Python"
   [1b7c17e6]: https://livebook.manning.com/#!/book/deep-learning-with-r "Deep Learning with R"
 
