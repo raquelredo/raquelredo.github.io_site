@@ -28,7 +28,7 @@ I decided to split the content of this site in blog posts (like this one) and ar
 
 I still have some projects left to upload as I take the moment to update them a bit. In particular, I still have to update my deep learning projects made while studying at [Udacity][c85492ee].
 
-  [c85492ee]: www.Udacity.com "Udacity"
+  [c85492ee]: https://eu.udacity.com/ "Udacity"
 
 As well as updating the website I have been engaged in some Spark and Scala learning as well as reinforcing my recent knowledge on Deep Learning.
 
