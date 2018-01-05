@@ -1,9 +1,9 @@
 ---
 layout: "post"
 title: "Data Book Review: Deep learning with R by François Chollet"
-excerpt: "An amazing book recently published by Manning Publishing. "
+excerpt: "An amazing book abolut Deep learning recently published by Manning Publishing."
 categories: articles
-tags: [Books,Machine Learning, advanced,data science,algorithms,programming R,Self-learning,Deep Learning, GANs, Transfer Learning, LSTM, Deep Dream"]
+tags: [Books,Machine Learning, advanced,data science,algorithms,programming R,Self-learning,Deep Learning, GANs, Transfer Learning, LSTM, Deep Dream]
 author: rachel
 comments: true
 share: true
