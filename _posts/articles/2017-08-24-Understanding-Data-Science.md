@@ -24,7 +24,7 @@ I guess my RLadies colleagues who are mostly coming from the Science field did n
 
 Data science is a new field and for that, there are still some forth and back on its definition. With the new increased demand for a data scientist, there will be more movement to create standardized skill set. Traditional ways of education, like on site Universities are still confectioning its curricula on the subjects and tools that a DS must be skilled.
 
-![](/images/understanding-DS.png)
+![](/images/posts/understanding-DS.png)
 
 One of the best ways to think about DS is to focus on the second part of the term. So, on the science, and not on the data.
 As I recall being told in elementary school, the scientific methodology means experimentation. Therefore, it is to use the experimentation to build knowledge with the same forth and back that its own definition is having. So a DS must experiment using an empirical approach gaining insights and knowledge but reacting to the data through experiments and questions. A DS must daily use this skill.
