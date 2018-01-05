@@ -17,6 +17,7 @@ Only some hours later I wrote my whining, I got notified that I am a scholar on 
 
 ![Google developer challenge badge]({{site.url}}/images/posts/Google-Dev-EMEA-Badge.png){: .pull-right}
 
+
 I am very happy about that! When I did the application for the scholarship there were many possibilities. I asked for the Front-end web development track. Data visualization has been one of my areas of interest, not only because I feel very important to be able to simplify for users the data exploration, but also because the creative me flourished at the clicking moment.
 
 In barely one week I will start another journey. I am not sure if the program will take six months or one full year, as I think the scholarship has two phases and not everyone goes ahead to the second one. About the scholarship, I am confident that I can follow this track with ease.Right now my thoughts are much more focused on not being able to finish the second term of the Artificial Intelligence Nanodegree in the short time.
