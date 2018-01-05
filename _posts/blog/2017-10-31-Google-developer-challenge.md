@@ -11,7 +11,7 @@ date: "2017-10-31 09:45"
 modified: "2017-10-31 09:45"
 ---
 
-Yesterday I wrote an article reviewing the Udacity's AIND. You can read it ![here]({{site.url}}.articles/AI-Nanodegree-Review-first-term/). As you can read, I ended the article claiming for some rest. Well, it seems I will not!
+Yesterday I wrote an article reviewing the Udacity's AIND. You can read it ![here]({{site.url}}/articles/AI-Nanodegree-Review-first-term/). As you can read, I ended the article claiming for some rest. Well, it seems I will not!
 
 Only some hours later I wrote my whining, I got notified that I am a scholar on the Google developer challenge 2017-2018.
 
