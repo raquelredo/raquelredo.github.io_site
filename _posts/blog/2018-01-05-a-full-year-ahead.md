@@ -11,8 +11,8 @@
     feature: banner1.jpg
     credit:
     creditlink:
-  date: "2017-01-05 11:54"
-  modified: "2017-01-05 11:54"
+  date: "2018-01-05 11:54"
+  modified: "2018-01-05 11:54"
 ---
 
 Wow, 2018 has arrived. It's a whole year ahead. I have a lot of enthusiasm for this year, and I hope it does not disappoint me. The year 2017 was terrible for me in personal terms, and that makes me want to leave it a little behind. But being fair to him, 2017 was also full of great things, and most are in the professional field.
