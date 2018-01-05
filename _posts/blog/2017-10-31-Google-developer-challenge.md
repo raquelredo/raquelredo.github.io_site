@@ -11,11 +11,11 @@ date: "2017-10-31 09:45"
 modified: "2017-10-31 09:45"
 ---
 
-Yesterday I wrote an article reviewing the Udacity's AIND. You can read it [here](http://www.analyzingdata.org/articles/AI-Nanodegree-Review-first-term/). As you can read, I ended the article claiming for some rest. Well, it seems I will not!
+Yesterday I wrote an article reviewing the Udacity's AIND. You can read it ![here]({{site.url}}./_posts/articles/2017-10-30-AI-Nanodegree-Review-first-term.md). As you can read, I ended the article claiming for some rest. Well, it seems I will not!
 
 Only some hours later I wrote my whining, I got notified that I am a scholar on the Google developer challenge 2017-2018.
 
-![Google developer challenge badge](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/images/Google-Dev-EMEA-Badge.png?raw=true)
+![Google developer challenge badge](_images/posts/Google-Dev-EMEA-Badge.png){: .pull-right}
 
 I am very happy about that! When I did the application for the scholarship there were many possibilities. I asked for the Front-end web development track. Data visualization has been one of my areas of interest, not only because I feel very important to be able to simplify for users the data exploration, but also because the creative me flourished at the clicking moment.
 
