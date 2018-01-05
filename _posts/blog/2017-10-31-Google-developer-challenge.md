@@ -15,7 +15,7 @@ Yesterday I wrote an article reviewing the Udacity's AIND. You can read it ![her
 
 Only some hours later I wrote my whining, I got notified that I am a scholar on the Google developer challenge 2017-2018.
 
-![Google developer challenge badge]({{site.url}}./_images/posts/Google-Dev-EMEA-Badge.png){: .pull-right}
+![Google developer challenge badge]({{site.url}}/images/posts/Google-Dev-EMEA-Badge.png){: .pull-right}
 
 I am very happy about that! When I did the application for the scholarship there were many possibilities. I asked for the Front-end web development track. Data visualization has been one of my areas of interest, not only because I feel very important to be able to simplify for users the data exploration, but also because the creative me flourished at the clicking moment.
 
