@@ -27,7 +27,7 @@ I had to take not easy decisions. As an examle, I did have to remove from my lif
 
 As a result of that in 2017, I discovered ![R-ladies](https://rladies.org/) community, as well as the ![Women-In-Tech](http://www.womenintechnology.org/) group. Both groups made by women have been created to encourage and empower us to go into IT. I learnt a lot from this gatherings, and I started not feeling alone anymore.  I also attended all meetups that were about data, technology and Data Science. At some point, the difficulties of entering into a new world got softer and as I found myself more comfortable attending to high-end lectures I also felt my confidence on the subject increased. Step by step the worm became a butterfly ready to start to fly!
 
-![Empowerment](images/posts/empowerment.jpg)
+![Empowerment]({{site.url}}/images/posts/empowerment.jpg)
 
 2017 has also been a year of inflexion for the female world in IT.  [Susan Fowler](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber) was the first to "uncover" the conditions that many women have to suffer in the workplace for the simple fact of having been born women. The situation he describes is not particular to the more digital world, but it is true that the digital world is, in general, a world _"colonised"_ by men. In several conferences that I attended this year dedicated to women in the IT sector, we could put this issue on the table and talk openly about the causes and consequences that this has.
 
