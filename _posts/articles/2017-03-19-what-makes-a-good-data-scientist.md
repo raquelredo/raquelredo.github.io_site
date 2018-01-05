@@ -23,7 +23,7 @@ Data-driven companies have created a new challenge: Finding a leader who can use
 
 Anyone does want or is on the path to becoming a data scientist/analyst should know that the less important step in a data process is the code itself. The most important factor is being able to translate a business question in, first, a data project and finally, extract business conclusions about that project. The middle section, the code itself it is just something a very well on-site trained person can do it.
 
-![Modern Data Scientist](images/modern-data-scientist.png)
+![Modern Data Scientist](images/posts/modern-data-scientist.png)
 
 Some of you, at this point, has raised the eyebrows and think I am nuts. Well, for being data scientist there is much more than programming itself.  The above post picture shows a cheat sheet of the skills needed. There is some math, statistics, curiosity, communication skills, and yes, also same knowledge about Hadoop and Language programming as R, Python or SQL... You might agree with me that learning a programming language is not a hard part of the computer science. Most of the well-experienced programmers have to learn the new languages most suitable for the data, also many Big Data concepts are as new to them as it was for me a few months ago.
 
