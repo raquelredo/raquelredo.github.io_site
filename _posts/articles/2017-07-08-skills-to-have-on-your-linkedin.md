@@ -8,7 +8,7 @@ author: rachel
 comments: true
 share: true
 image:
-  feature: banner1.jpg
+  feature: banner_article.jpg
   credit: AnalyzingData
   creditlink: 10-skills.jpg
 date: "2017-07-08 11:57:59"

@@ -8,7 +8,7 @@ author: rachel
 comments: true
 share: true
 image:
-  feature: banner2.jpg
+  feature: banner_article.jpg
   credit: AnalyzingData
   creditlink:
 date: "2017-10-30 13:21:29"
@@ -37,4 +37,4 @@ My mentor on the platform, Alan, encouraged me when I got stuck. I did not abuse
 
 I have done the Nanodegree almost on a full-time basis, and despite that, I failed on ending the first two projects before the soft deadline suggested. I did learn a lot, but it is not enough to be confident and walk alone in the field of Artificial Intelligence. Most of the coding is provided, and while filling the blanks, you are tipped on what to do. So this is just a first stage if you want to pursue a career in AI.
 
-I feel I need to break before starting the second term. I deserve it. I put almost 159 hours to complete the term. I need to think very carefully which specialisation I choose, and for that, I need more information. So I will read the missing chapters in the book. 
+I feel I need to break before starting the second term. I deserve it. I put almost 159 hours to complete the term. I need to think very carefully which specialisation I choose, and for that, I need more information. So I will read the missing chapters in the book.

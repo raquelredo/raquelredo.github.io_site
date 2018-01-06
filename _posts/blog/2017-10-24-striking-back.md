@@ -6,7 +6,7 @@ categories: blog
 excerpt: "A summary on why I did not post"
 tags: [Data Science, log, changing career, job hunting]
 image:
-  feature:  banner1.jpg
+  feature: banner_log.jpg
 date: "2017-10-24 09:45"
 modified: "2017-10-24 09:45"
 ---

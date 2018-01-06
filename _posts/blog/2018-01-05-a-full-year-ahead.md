@@ -8,7 +8,7 @@
   comments: true
   share: true
   image:
-    feature: banner1.jpg
+    feature: banner_log.jpg
     credit:
     creditlink:
   date: "2018-01-05 11:54"

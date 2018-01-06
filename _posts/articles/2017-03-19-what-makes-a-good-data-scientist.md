@@ -8,7 +8,7 @@ author: rachel
 comments: true
 share: true
 image:
-  feature:
+  feature: banner_article.jpg
   credit:
   creditlink:
 date: "2017-3-19 17:00:29"

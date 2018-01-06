@@ -1,16 +1,16 @@
 ---
   layout: "post"
-  title: "Sparkling my DS"
-  excerpt: "Log on my DS journey"
+  title: "Weekly Summary Week 1"
+  excerpt: "Log about week from 1st January to 7th January, 2018"
   categories: blog
-  tags: [datascience, changing career, job hunting]
+  tags: [data science, changing career, job hunting]
   author: rachel
   comments: true
   share: true
   image:
-    feature: banner3.jpg
+    feature: banner2.jpg
     credit:
     creditlink:
-  date: "2017-08-24 10:55"
-  modified: "2017-08-24 10:55"
+  date: "2018-01-07 10:55"
+  modified: "2018-01-07 10:55"
 ---
