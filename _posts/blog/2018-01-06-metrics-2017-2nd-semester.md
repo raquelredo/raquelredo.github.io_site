@@ -56,7 +56,7 @@ Concept |	hours
 In this platform, I did study two nano degrees (Deep Learning Foundations and Artificial Intelligence) as well as the first phase of the [Google Developer Challenge Scholarship][11544b19] (Front-End). But I also did many free courses: Statistics, Git&Github, Machine Learning, Algebra, A/B Testing,...
 
   [d1b4e3c1]: https://eu.udacity.com/ "Udacity"
-  [11544b19]: http://www.analyzingdata.org/blog/Google-developer-challenge/"
+  [11544b19]: http://www.analyzingdata.org/blog/Google-developer-challenge/
 
 By far, it has been the most significant discovery of this year. Its credentials have led me to a considerable improvement in the success on getting job interviews.  It is important to show confidence in your knowledge for passing interviews, but you need a good education and experience in the resume to get you to that stage.
 
