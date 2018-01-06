@@ -38,11 +38,11 @@ Concept |	hours
  :---  |  ---:
 **Udacity** |	405
 **Blog**	|116
-**Udemy	**|111
+**Udemy**|111
 **DataCamp**	|106
 **Projects on R**	|58
 **Coursera**|	48
-**Kaggle	**|38
+**Kaggle**|38
 **Reading**	|37
 **Linkedin profile and Job Hunting**	| 32
 **Interview Preparation**	| 24
@@ -65,13 +65,13 @@ Luckily for us, the [European Commission has rewarded its contribution to teachi
 By far the most hours on this platform were due to the Nanodegrees ([Artificial Intelligence]({{site.url}}/_posts/articles/2017-10-30-AI-Nanodegree-Review-first-term.md)
  with nearly 190h And Deep Learning with 150h)
 
- The **silver** medal is for Udemy (111 h), within its cheap courses I discovered several from Jose Portilla's or Kirill Eremenko's. Both are very good communicators and I did use their courses to reinforce my learning from a topic. Most of the courses provide good resources: Jupyter notebooks as well as projects to code, that serve as good companions when you need help .
+The **silver** medal is for Udemy (111 h), within its cheap courses I discovered several from Jose Portilla's or Kirill Eremenko's. Both are very good communicators and I did use their courses to reinforce my learning from a topic. Most of the courses provide good resources: Jupyter notebooks as well as projects to code, that serve as good companions when you need help .
 I already followed [Kirill Podcast](https://www.superdatascience.com/podcast/) since his very beginnings with it.
 The topics I put on more hours at [Udemy][7c2a13da] were, by far, Python (37h) and Spark (27h).
 
- The **bronze** medal is for this blog. I did consider its construction as learning Data Science because it does incorporate GitHub (hosting is in it), building my portfolio, as well as reading and writing about Data Science. The time consumed is around 109h, and I hope that is the topic that grows more in 2018. My longest journeys were due to it. I build and rebuild the site a lot of times until I got comfortable with it.
+The **bronze** medal is for this blog. I did consider its construction as learning Data Science because it does incorporate GitHub (hosting is in it), building my portfolio, as well as reading and writing about Data Science. The time consumed is around 109h, and I hope that is the topic that grows more in 2018. My longest journeys were due to it. I build and rebuild the site a lot of times until I got comfortable with it.
 
-I have to give a special mention to [DataCamp][bfb475e2]  (105h). This is a membership site in which I did spend consistently some of my time every single day in the last months. It helps me to discover new packages and functionalities for both languages R and Python. I did study all of the Career Tracks and Skill Tracks available and I plan to visit every day in order to keep me update.
+I have to give a special mention to [DataCamp][bfb475e2]  (105h). This is a membership site in which I did spend, consistently, some of my time every single day for the last months. It helps me to discover new packages and functionalities for both languages R and Python. I did study all of the Career Tracks and Skill Tracks available and I plan to visit every day in order to keep me update.
 
 
   [7c2a13da]: https://www.udemy.com/courses/ "Udemy"
