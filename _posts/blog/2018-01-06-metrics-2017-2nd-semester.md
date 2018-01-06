@@ -30,7 +30,7 @@ I only tracked efficient hours. That was important an important point for me. Al
 
 This is the 2nd semester of 2017 summary concerning Data Science (I also did study other things on the way):
 
-  ![2017 second semester summary]({{site.url}}/images/graphs/2017learning.png){: .pull-right}
+  ![2017 second semester summary]({{site.url}}/images/graphs/2017learning.jpg){: .pull-right}
 
 And in a table,
 
