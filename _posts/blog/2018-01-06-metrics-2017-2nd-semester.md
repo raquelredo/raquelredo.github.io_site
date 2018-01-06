@@ -55,14 +55,14 @@ Concept |	hours
 [Udacity][d1b4e3c1], by far, is the **big winner** if that was a competition.
 In this platform, I did study two nano degrees (Deep Learning Foundations and Artificial Intelligence) as well as the first phase of the [Google Developer Challenge Scholarship][11544b19] (Front-End). But I also did many free courses: Statistics, Git&Github, Machine Learning, Algebra, A/B Testing,...
 
-  [d1b4e3c1]: www.Udacity.com "Udacity"
-  [11544b19]: ({{site.url}}/_posts/blog/2017-10-31-Google-developer-challenge.md "Google Developer Challenge Scholarship"
+  [d1b4e3c1]: https://eu.udacity.com/ "Udacity"
+  [11544b19]: http://www.analyzingdata.org/blog/Google-developer-challenge/"
 
 By far, it has been the most significant discovery of this year. Its credentials have led me to a considerable improvement in the success on getting job interviews.  It is important to show confidence in your knowledge for passing interviews, but you need a good education and experience in the resume to get you to that stage.
 
 Luckily for us, the [European Commission has rewarded its contribution to teaching new digital skills](https://blog.udacity.com/2017/12/european-commission-digital-skills-award.html),  highlighting it as a standing out learning school for IT skills.
 
-By far the most hours on this platform were due to the Nanodegrees ([Artificial Intelligence]({{site.url}}/_posts/articles/2017-10-30-AI-Nanodegree-Review-first-term.md)
+By far the most hours on this platform were due to the Nanodegrees ([Artificial Intelligence](http://www.analyzingdata.org/blog/Google-developer-challenge/)
  with nearly 190h And Deep Learning with 150h)
 
 The **silver** medal is for Udemy (111 h), within its cheap courses I discovered several from Jose Portilla's or Kirill Eremenko's. Both are very good communicators and I did use their courses to reinforce my learning from a topic. Most of the courses provide good resources: Jupyter notebooks as well as projects to code, that serve as good companions when you need help .
