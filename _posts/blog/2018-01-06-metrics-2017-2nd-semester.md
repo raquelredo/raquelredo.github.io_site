@@ -1,7 +1,7 @@
 ---
   layout: "post"
   title: "Learning Data Science. Some metrics"
-  excerpt: "2017 my last six months on self-learning metrics. Where I put the hours and how many."
+  excerpt: "2017 my last six months on self-learning metrics. How my time is broken into different subjects, platforms and tools."
   categories: blog
   tags: [data science, changing career, job hunting, self-learning, R, python, procastination, accountability, statistics, DataCamp, udacity, udemy, blogging]
   author: rachel

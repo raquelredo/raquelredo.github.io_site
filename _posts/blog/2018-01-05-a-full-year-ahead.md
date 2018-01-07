@@ -1,7 +1,7 @@
 ---
   layout: "post"
   title: "2018. A Full year ahead"
-  excerpt: "About my new year's resolution on Data science"
+  excerpt: "About my new year's resolutions on Data science."
   categories: blog
   tags: [datascience, changing career, sel-learning, resolutions, 2018]
   author: rachel

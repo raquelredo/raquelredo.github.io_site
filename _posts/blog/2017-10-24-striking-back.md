@@ -3,7 +3,7 @@ layout: post
 title: "Striking Back"
 modified:
 categories: blog
-excerpt: "A summary on why I did not post"
+excerpt: "A summary on why I did not post."
 tags: [Data Science, log, changing career, job hunting]
 image:
   feature: banner_log.jpg

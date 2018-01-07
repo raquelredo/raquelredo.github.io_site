@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Sparkling my DS"
-excerpt: "Log on my DS journey"
+excerpt: "Log on my DS journey."
 categories: blog
 tags: [blog, spark, scala, log, sparlyR]
 author: rachel
