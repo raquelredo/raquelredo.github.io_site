@@ -34,7 +34,7 @@ I am committed to finishing all DataCamp Courses and then reviewing it. I have a
 
 5.- I did some research in my city, on institutions to act as a mentor. I already have chosen one in which I can offer my services.
 
-6.- I am reading a book of LinkedIn influencer [**Brigette Tasha Hyacinth**](https://www.linkedin.com/in/brigettehyacinth/) titled 
+6.- I am reading a book of LinkedIn influencer [**Brigette Tasha Hyacinth**](https://www.linkedin.com/in/brigettehyacinth/) titled
 [The Future of Leadership: Rise of Automation, Robotics and Artificial Intelligence](http://amzn.to/2CJGsv5). I have read 50% of it. It strengths the role of leaders and how leadership style and knowledge need to change | evolve in order to adapt to the changes that are coming.
 By far, I am enjoying the reading. It is not an open-my-eyes reading, but I think, it serves as a good glue to see the big picture.
 
@@ -49,5 +49,5 @@ I am very satisfied of this week. The total number of weekly effort is 34h.
 
 
 
-[1a539d8c]: www.Udacity.com "Udacity"
+[1a539d8c]: https://www.Udacity.com/ "Udacity"
 [311043ca]: https://www.datacamp.com/ "DataCamp"
