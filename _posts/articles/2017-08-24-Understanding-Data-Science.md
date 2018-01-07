@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Understanding Data Science"
-excerpt: "Data Science definition. What is what"
+excerpt: "Some basic Data Science definitions."
 categories: articles
 tags: [Beginners,data science,Hadoop, Big Data, data scrub, Map reduce, spark]
 author: rachel

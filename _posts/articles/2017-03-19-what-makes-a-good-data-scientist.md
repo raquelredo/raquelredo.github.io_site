@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "What makes a good Data Scientist?"
-excerpt: "A brief summary on skills to have for a Data Scientist"
+excerpt: "A brief summary on skills to have for a Data Scientist."
 categories: articles
 tags: [Beginners,data science,Skillset,data scientist,data anlyst,Economist,Modern Data Scientist]
 author: rachel

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Data Book Review: Machine Learning with R"
+title: "Data Book Review: Machine Learning with R."
 excerpt: "Book review"
 categories: articles
 tags: [Books,Machine Learning,Beginners,machine learning,beginners,data science,algorithm,programming R,Self-learning,Trees,Forecasting,Patterns,Market Basket Analysis]

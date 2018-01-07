@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "AI Nanodegree. First Term review"
-excerpt: "My review of the first term of Udacity's Artificial Intelligence Nanodegree"
+excerpt: "My review of the first term of Udacity's Artificial Intelligence Nanodegree."
 categories: articles
 tags: [data science,review, artificial intelligence, udacity]
 author: rachel

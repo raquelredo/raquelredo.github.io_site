@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Data Science project management I"
-excerpt: "Project management for Data Science projects. Because analysing is not everything you need to know..."
+excerpt: "Project management for Data Science projects. Because analysing is not everything you need to know."
 categories: articles
 tags: [Beginners,Project management,general, Agile]
 author: rachel
