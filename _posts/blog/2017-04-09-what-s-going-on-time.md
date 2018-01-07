@@ -17,7 +17,7 @@ modified: "2017-08-05 16:57"
 
 I have decided I want to share with you what is going in my life concerning data science activities. As you might guess this field is full of networking events, conferences and MOOCs to explore. Which ones I decide to attend to is due to random reasons: the day of the week, my mood, the content, the visitors, friends to attend with,...
 
-Let's jump to it,
+Let's jump to it.
 
 This last Tuesday I attended The Data Beers conference in my city. If you don't know, Data Beers is an event about Data that started in Madrid, Spain and was spread in many cities around the World. The event is about Data and Beers.
 
