@@ -24,7 +24,7 @@ Dataset can be downloaded from Kaggle site [here](https://www.kaggle.com/ludoben
 
 ### Description
 
-Why are our best and most experienced employees leaving prematurely? Have fun with this database and try to predict which valuable employees will leave next. Fields in the dataset include:
+Why are our best and most experienced employees leaving prematurely? Have fun with this database and try to predict which valuable employees will leave next. These are the feaures that this dataset include:
 
 -   Last evaluation
 -   Number of projects
@@ -109,6 +109,8 @@ Why are our best and most experienced employees leaving prematurely? Have fun wi
 
 ## Load libraries
 
+
+First thing we need is loading the libraries.
 ``` r
 library(ggplot2)
 library(corrplot)#Correlation matrix
@@ -118,6 +120,7 @@ library(caret)
 library(dplyr)
 library(pROC)
 ```
+and importing the data is a must step.
 
 ## Import
 
