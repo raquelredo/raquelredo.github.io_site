@@ -18,7 +18,7 @@
 
 This week has been weak in terms of Data science dedication.
 
-The reason is that I recently started a personal project . Therefore Most of my free hours (up to 30h) was used to learn new skills for it. Despite that, I still spent some time to the core of this blog. And that log is the weekly summary.
+The reason is that I recently started a personal project . Therefore most of my free hours (up to 30h) was used to learn new skills for it. Despite that, I still spent some time to the core of this blog. And that log is the weekly summary.
 
 As It has been common for the last months I have dedicated some time to refresh my coding skills and learn new packages. As a result, this week I finished the following [DataCamp][311043ca] courses:
 
@@ -34,8 +34,11 @@ And I have started this one,
 I did continue my reading of book by LinkedIn influencer [**Brigette Tasha Hyacinth**](https://www.linkedin.com/in/brigettehyacinth/) titled
 [The Future of Leadership: Rise of Automation, Robotics and Artificial Intelligence](http://amzn.to/2CJGsv5).
 
-I also have some advances on my course on Computer Vision with open CV at [Udemy][f8422003].
-[f8422003]: https://www.udemy.com/courses/ "Udemy"
+I also have some advances on my course on Computer Vision with open CV at [Udemy][df69aa51].
+
+  [df69aa51]: https://www.udemy.com/courses/ "Udemy"
+
+
 
 I started some aside new scripts using R. I am not sure if this projects will become a portfolio item or I will use them just for fun. Time will say.
 
