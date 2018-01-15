@@ -3,7 +3,7 @@
   title: "Recognizing data types"
   excerpt: "Data has many shapes, colours and sizes. Can you see the difference?"
   categories: articles
-  tags: [datascience,data, SQL, NoSQL, JASON, XML, storage]
+  tags: [datascience,data, SQL, NoSQL, JSON, XML, storage]
   author: rachel
   comments: true
   share: true
