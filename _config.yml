@@ -7,6 +7,7 @@ logo: site-logo.png
 search: true
 url: http://analyzingdata.org
 baseurl: "" # the subpath of your site, e.g. /blog
+disqus-shortname: analyingdata-org
 comments: true
 
 # Jekyll configuration
@@ -47,7 +48,7 @@ owner:
   name: Rachel
   avatar: avatar.jpg
   email: letadigital@gmail.com
-  disqus-shortname: analyingdata-org
+  # Social networking links used in footer. Update and remove as you like.
   twitter: rredop #username
   facebook: #username
   github: raquelredo #username
@@ -57,11 +58,28 @@ owner:
   flickr: #username
   tumblr: #username
   pinterest: #username
-  weibo: #userid
-  google:
-    plus:  #username
-    analytics: UA-92188520-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+  google_analytics:  UA-92188520-1
+  google_verify:
+  # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+  bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Blog
+    url: /blog
+  - title: Articles
+    url: /articles
+  - title: Portfolio
+    url: /portfolio/
+  - title: About
+    url: /about/
+  - title: Search
+    url: /search/
+  #- title: Made Mistakes
+  #  url: http://mademistakes.com
+  #  external: true
