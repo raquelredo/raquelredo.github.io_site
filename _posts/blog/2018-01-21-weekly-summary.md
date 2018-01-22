@@ -23,7 +23,7 @@ Most of the total time (48h) I have been scripting whether in R or Python. I use
 I have to say that I did not finish anything valuable to mention, as most of the time I was fighting with new things and computing the results.
 The novelty was that as I had some spare credits on [AWS][f9496ea9] from my Deep Learning Foundation studies at [Udacity][1a539d8c], I decided to take profit of these hours and I did some cloud computing.The datasets were big enough to give some rest to my own laptop.
 
-  [f9496ea9]: aws.amazon.com "Amazon Web Server"
+  [f9496ea9]: https://aws.amazon.com/ "Amazon Web Server"
   [311043ca]: https://www.datacamp.com/ "DataCamp"
   [1a539d8c]: https://www.Udacity.com/ "Udacity"
 
