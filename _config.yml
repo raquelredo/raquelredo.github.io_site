@@ -1,48 +1,48 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Analyzing Data
+description:      "Changing career towards Data Science. Learning Machine Learning, Dep Learning and Artificial Intelligence."
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: analyingdata-org
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://analyzingdata.org
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  email:          you@email.com
+  name:           Rachel
+  avatar:         avatar.jpg
+  email:          letadigital@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        rredop
+  facebook:
+  github:         raquelredo
+  stackexchange:
+  linkedin:       raquelredo
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:   UA-92188520-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Blog
+    url: /blog
+  - title: Portfolio
+    url: /portfolio
+  - title: About
+    url: /about
+    #external: true descomentar si el link es externo a la site
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Madrid
 future:      true
 pygments:    true
 markdown:    kramdown
@@ -58,7 +58,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
@@ -66,3 +66,9 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec"]
+
+# Jekyll collections
+collections:
+    portfolio:
+        output: true
+        permalink: /:collection/:title/
