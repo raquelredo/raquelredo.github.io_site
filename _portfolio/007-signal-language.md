@@ -1,5 +1,5 @@
 ---
-title: "Credit Card Fault detection"
+title: "American Signal Language Recognition"
 layout: post
 excerpt: "The overall goal of this project is to build a word recognizer for American Sign Language video sequences, demonstrating the power of probabalistic models."
 tags: [Python, Machine learning, Udacity, Artificial Intelligence, Probabilistic Models]
@@ -12,6 +12,9 @@ comments: false
 date: 24-01-2018
 ---
 # Artificial Intelligence Engineer Nanodegree - Probabilistic Models
+
+I did this project while doing the Artificial Intelligence Nanodegree at Udacity. The major objective is using probabilistics models in order to recognise American Signal Language.
+
 ## Project: Sign Language Recognition System
 - [Introduction](#intro)
 - [Part 1 Feature Selection](#part1_tutorial)
@@ -31,6 +34,7 @@ date: 24-01-2018
 <a id='intro'></a>
 ## Introduction
 The overall goal of this project is to build a word recognizer for American Sign Language video sequences, demonstrating the power of probabalistic models.  In particular, this project employs  [hidden Markov models (HMM's)](https://en.wikipedia.org/wiki/Hidden_Markov_model) to analyze a series of measurements taken from videos of American Sign Language (ASL) collected for research (see the [RWTH-BOSTON-104 Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database-rwth-boston-104.php)).  In this video, the right-hand x and y locations are plotted as the speaker signs the sentence.
+
 [![ASLR demo](http://www-i6.informatik.rwth-aachen.de/~dreuw/images/demosample.png)](https://drive.google.com/open?id=0B_5qGuFe-wbhUXRuVnNZVnMtam8)
 
 The raw data, train, and test sets are pre-defined by Udacity.
@@ -380,7 +384,7 @@ test_features_tryit(asl)
 </div>
 
 
-<font color=green>Correct!</font><br/>
+Correct!
 
 
 ```python
@@ -465,12 +469,10 @@ training.get_word_Xlengths('CHOCOLATE')
 ###### More feature sets
 So far we have a simple feature set that is enough to get started modeling.  However, we might get better results if we manipulate the raw values a bit more, so we will go ahead and set up some other options now for experimentation later.  For example, we could normalize each speaker's range of motion with grouped statistics using [Pandas stats](http://pandas.pydata.org/pandas-docs/stable/api.html#api-dataframe-stats) functions and [pandas groupby](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.groupby.html).  Below is an example for finding the means of all speaker subgroups.
 
-
 ```python
 df_means = asl.df.groupby('speaker').mean()
 df_means
 ```
-
 
 <div>
 <table border="1" class="dataframe">
@@ -545,7 +547,6 @@ df_means
   </tbody>
 </table>
 </div>
-
 
 
 To select a mean that matches by speaker, use the pandas [map](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.map.html) method:
@@ -1089,7 +1090,6 @@ asl.df[features_polar].head()
 </table>
 </div>
 
-
 ```python
 # Add features for left, right, x, y differences by one time step, i.e. the "delta" values discussed in the lecture
 # Name these 'delta-rx', 'delta-ry', 'delta-lx', and 'delta-ly'
@@ -1415,16 +1415,16 @@ def visualize(word, model):
 visualize(my_testword, model)
 ```
 
-![png](/AI-Signal_lang/asl_recognizer_1.png)
+![png](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Signal_lang/asl_recognizer_1.png?raw=true)
 
 
-![png](/AI-Signal_lang/asl_recognizer_2.png)
+![png](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Signal_lang/asl_recognizer_2.png?raw=true)
 
 
-![png](/AI-Signal_lang/asl_recognizer_3.png)
+![png](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Signal_lang/asl_recognizer_3.png?raw=true)
 
 
-![png](/AI-Signal_lang/asl_recognizer_4.png)
+![png](https://github.com/raquelredo/raquelredo.github.io_site/blob/master/_portfolio/AI-Signal_lang/asl_recognizer_4.png?raw=true)
 
 
 #####  ModelSelector class
@@ -1919,7 +1919,7 @@ Although in the script only three combinations are shown, I did run all possible
 
 In my running, I got less Word Error Rates with the combined features delta and selectorsBIC and DIC.
 They are both tied concerning performance.
-Feature_delta is expreseed as the difference in values between one frame and the next frames as features, so it is focus on transition. Probably because of that it is more acuurate to detect the next word. In addition, Discriminative methods such as DIC are less likely to have generated data belonging to competing classification categories.
+`Feature_delta` is expreseed as the difference in values between one frame and the next frames as features, so it is focus on transition. Probably because of that it is more acuurate to detect the next word. In addition, Discriminative methods such as DIC are less likely to have generated data belonging to competing classification categories.
 
 To improve WER we could try adding more features, removing them or creating new feature combinations. Also, we can add more context to the words. A thing that can add more complexity thus time computation, but will help to better performance
 
@@ -1932,7 +1932,6 @@ from asl_test_recognizer import TestRecognize
 suite = unittest.TestLoader().loadTestsFromModule(TestRecognize())
 unittest.TextTestRunner().run(suite)
 ```
-
     ..
     ----------------------------------------------------------------------
     Ran 2 tests in 59.307s
@@ -1940,8 +1939,6 @@ unittest.TextTestRunner().run(suite)
     OK
 
     <unittest.runner.TextTestResult run=2 errors=0 failures=0>
-
-
 
 <a id='part4_info'></a>
 ## PART 4: Improve the WER with Language Models
@@ -1955,7 +1952,6 @@ We've squeezed just about as much as we can out of the model and still only get 
 ##### Optional challenge
 The recognizer implemented in Part 3 is equivalent to a "0-gram" SLM.  Improve the WER with the SLM data provided with the data set in the link above using "1-gram", "2-gram", and/or "3-gram" statistics. The `probabilities` data you've already calculated will be useful and can be turned into a pandas DataFrame if desired (see next cell).
 Good luck!  Share your results with the class!
-
 
 ```python
 # create a DataFrame of log likelihoods for the test word items
