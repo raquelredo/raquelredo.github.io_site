@@ -4,7 +4,7 @@ layout: "post"
 excerpt: "First project for the Artificial Intelligence Nanodegree. Coding how to Solve a Sudoku puzzle game."
 tags: [python, Artificial Intelligence, sudoku, naked twins, diagonal Sudoku, Udacity]
 header:
-  teaser: sudoku_colox.jpg
+  teaser: portfolio/sudoku_colox.jpg
 link:
 share: true
 categories: portfolio

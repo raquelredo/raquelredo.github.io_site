@@ -4,7 +4,7 @@ layout: post
 excerpt: "Are we able to predict credit card fraud in online transactions?"
 tags: [R, Machine learning, dplyr, ggplot2, unbalanced data, fraud, logistic, tree, AUC, kaggle, PCA]
 header:
-  teaser: fraud_cc.png
+  teaser: portfolio/fraud_cc.png
 categories: portfolio
 link:
 share: true

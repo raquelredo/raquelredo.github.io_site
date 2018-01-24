@@ -3,7 +3,7 @@ title: "Titanic: Machine Learning from Disaster"
 layout: "post"
 excerpt:  "The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. Can we build a model to predict chances of survival?"
 header:
-  teaser: Titanic.jpg
+  teaser: portfolio/Titanic.jpg
 link:
 tags: [R, Machine learning, survival prediction, titanic, kaggle, tree, knn, c5.0, logistic regression, missing data, inference, feature engineering]
 share: true

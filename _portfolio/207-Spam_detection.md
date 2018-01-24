@@ -4,7 +4,7 @@ layout: "post"
 excerpt: "The identification of the text of spam messages in the claims is a very hard and time-consuming task."
 tags: [python,Machine learning, spam, corpus, text processing]
 header:
-  teaser: spam.jpg
+  teaser: portfolio/spam.jpg
 link:
 share: true
 categories: portfolio

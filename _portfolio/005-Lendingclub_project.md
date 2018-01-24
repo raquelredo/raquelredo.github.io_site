@@ -4,7 +4,7 @@ layout: "post"
 excerpt:  "Credit Scoring project."
 tags: [python, Machine learning, scoring, pandas, numpy, machine learning]
 header:
-  teaser: scoring.jpg
+  teaser: portfolio/scoring.jpg
 link:
 share: true
 categories: portfolio

@@ -4,7 +4,7 @@ layout: post
 excerpt: "This script will classify images from the CIFAR-10 dataset"
 tags: [Python, Udacity, Deep Learning, Neural network, Image classification, CIFAR-10, image prepocessing, backpropagation, tensorflow, Convolutional Neural Networks]
 header:
-  teaser: cifar2.jpg
+  teaser: portfolio/cifar2.jpg
 categories: portfolio
 link:
 share: true

@@ -3,7 +3,7 @@ title: "Market Basket Analysis"
 layout: "post"
 excerpt:  "Which products are more alike to be bought together?"
 header:
-  teaser: market-basket-analysis.jpg
+  teaser: portfolio/market-basket-analysis.jpg
 link:
 tags: [R, Machine learning, MBA, asociation rules, set, support, confidence, lift]
 share: true

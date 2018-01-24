@@ -4,7 +4,7 @@ layout: "post"
 excerpt:  "GPS are not working properly indoors. But, is it possible to locate a person according to its Wi-fi footprint?"
 tags: [R,Machine learning, PCA, feature reduction, model evaluation, C50, adaboost, random forest, cross validation]
 header:
-  teaser: wifi.png
+  teaser: portfolio/wifi.png
 link:
 share: true
 categories: portfolio

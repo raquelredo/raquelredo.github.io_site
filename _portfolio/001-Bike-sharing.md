@@ -4,7 +4,7 @@ layout: post
 excerpt: "Using deep learning to predict bike sharing demand"
 tags: [Python, Deep Learning, Udacity, UCI, backpropagation, activation function, artificial neural network, ANN, numpy]
 header:
-  teaser: bike-sharing.jpg
+  teaser: portfolio/bike-sharing.jpg
 categories: portfolio
 link:
 share: true

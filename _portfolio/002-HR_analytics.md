@@ -4,7 +4,7 @@ layout: "post"
 excerpt:  "Why are our best and most experienced employees leaving prematurely?"
 tags: [R, Machine learning, kaggle, PCA, HR, logistic, tree, AUC]
 header:
-  teaser: Work.png
+  teaser: portfolio/Work.png
 link:
 share: true
 categories: portfolio

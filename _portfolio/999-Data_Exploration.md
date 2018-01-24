@@ -5,7 +5,7 @@ excerpt: "Using some Python data exploration libraries."
 tags: [python, data visualization, seaborn, matplotlib, numpy, pandas]
 categories: portfolio
 header:
-  teaser: call-center.png
+  teaser: portfolio/call-center.png
 link:
 share: true
 comments: false
