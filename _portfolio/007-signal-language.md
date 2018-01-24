@@ -4,7 +4,7 @@ layout: post
 excerpt: "The overall goal of this project is to build a word recognizer for American Sign Language video sequences, demonstrating the power of probabalistic models."
 tags: [Python, Machine learning, Udacity, Artificial Intelligence, Probabilistic Models]
 header:
-  teaser: asl.jpg
+  teaser: portfolio/asl.jpg
 categories: portfolio
 link:
 share: true
