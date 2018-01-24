@@ -9,7 +9,7 @@ categories: portfolio
 link:
 share: true
 comments: false
-date: 13-08-2017
+date: 24-01-2018
 ---
 # Artificial Intelligence Engineer Nanodegree - Probabilistic Models
 ## Project: Sign Language Recognition System

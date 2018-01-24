@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 comments: false
 ---
-The following projects have been done on my own or while doing some DS Courses. You can access each individual coding just by clicking any of them.
+These are some of the projects that I have been coding on my own or while doing some DS Courses. You can access each individual coding just by clicking any of them.
 
 
 <div class="grid__wrapper">
