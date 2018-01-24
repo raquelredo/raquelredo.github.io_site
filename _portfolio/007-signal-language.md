@@ -1573,9 +1573,6 @@ for word in words_to_train:
     Training complete for JOHN with 2 states with time 30.458282256499047 seconds
 
 
-**Question 2:**  Compare and contrast the possible advantages and disadvantages of the various model selectors implemented.
-
-**Answer 2:**
 The following table gathers the output of the different model selectors as x-y, where x represents the number of hidden states and y the time of computation expressed in seconds.
 
 Word  |Cross-validation   | BIC   | DIC
