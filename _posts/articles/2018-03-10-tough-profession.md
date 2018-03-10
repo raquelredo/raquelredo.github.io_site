@@ -16,9 +16,9 @@
 ---
 
 
-IBeing a Data Scientist is a tough profession nowadays. Not only because even it has been considered the sexiest job in the decade, most people can not understand it, but also because some people assume Data Scientist are magicians that can see the world and the only tool they need is their intention.
+Being a Data Scientist is a tough profession nowadays. Not only because even it has been considered the sexiest job in the decade, most people can not understand it, but also because some people assume Data Scientist are magicians that can see the world and the only tool they need is their intention.
 
-The other day I met a Data Scientist at a conference that told me this situation. He was recently hired by a company along with other 4 data scientist. He was the most experienced one between them. The other fellows were physician and mathematicians who never used a machine learning algorithm but only had the merit to study a degree that is supposed to work well with this profession. Nevertheless to say that the guy I was talking to, was not a former student of those degrees but on the contrary, was a self-made Data Scientist. As a result of the unexperienced colleagues, he was the one who has to deliver the new projects to the CEO
+The other day I met a Data Scientist at a conference that told me the following situation: He was recently hired by a company along with other 4 data scientist. He was the most experienced one between them. The other fellows were physician and mathematicians who never used a machine learning algorithm but only had the merit to study a degree that is supposed to work well with this profession. Nevertheless to say that the guy I was talking to, was not a former student of those degrees but on the contrary, was a self-made Data Scientist. As a result of the unexperienced colleagues, he was the one who has to deliver the new projects to the CEO
 
 He was pretty anxious because the CEO of the company demanded machine learning predictions without feeding any data. Data was inexistent. He tried to explain to the CEO that data-driven companies and technologies meant data was the foundation of them.
 The CEO did not want to hear that stories. He once went to a meeting and saw how someone created art from nothing and he, of course, wanted that. It was that guy incompetence if he could not provide that!
