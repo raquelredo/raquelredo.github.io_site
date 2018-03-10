@@ -1,7 +1,7 @@
 ---
   layout: "post"
   title: "Being a Data Scientist is tough"
-  excerpt: "We are in a creation era, not in a consolidation era. Invest in teams that can bring you a future, stop thinking as a present thing"
+  excerpt: "We are in a creation era, not in a consolidation era. Invest in teams that can bring you a future, stop thinking as a present thing."
   categories: articles
   tags: [datascience,data, CEO, BigData]
   author: rachel
@@ -29,4 +29,4 @@ On the contrary, the job market is not paying that big money to real Data Scient
 
 Today we are NOT in an era of business consolidation. This is an era of creation, innovation and building things that never existed before. Only because we can do it now, things that we could not do before. We did not have the cheap technology nor the knowledge to produce in mass many of the cool applications modelling data has.
 
-Stop thinking about only one kind of professionals to hire and start thinking about investing in people who are different between them. If you do so, they can feed themselves with discussions and different point of views. Hire statisticians, mathematicians, biologists, economists, chemists, business people...do not pre-judge them. 
+Stop thinking about only one kind of professionals to hire and start thinking about investing in people who are different between them. If you do so, they can feed themselves with discussions and different point of views. Hire statisticians, mathematicians, biologists, economists, chemists, business people...do not pre-judge them.
